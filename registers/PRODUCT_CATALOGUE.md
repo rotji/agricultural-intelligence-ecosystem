@@ -115,3 +115,25 @@ Neither 60 nor 100 is a catalogue ceiling. The product universe remains open-end
 ## 8. Relationship to opportunities
 
 A product discovery is not automatically a business opportunity. Create or link an OPP record only when there is a specific problem, demand signal, supply gap, commercial use, solution route or other opportunity hypothesis worth investigating. Keep product facts and opportunity hypotheses distinct.
+
+
+## Candidate records added — 20 November 2026
+
+The following entries are evidence-linked candidates derived from current market, trade and technology sources. They do not imply local inventory, local production, buyer orders or verified transactions unless expressly stated.
+
+| Product ID | Product | Classification / commercial form | Evidence | Current status and limitation |
+|---|---|---|---|---|
+| PRD-0007 | Roma tomato, fresh | Raw vegetable; fresh, Roma variety | EVD-0014 | Proposed from a Plateau marketplace pilot demonstration listing; seller identity and inventory not independently verified. |
+| PRD-0008 | Layer day-old chicks | Live poultry; production input | EVD-0015 | Proposed from FarmPaddy platform estimate; named hatchery quotation and batch terms unavailable. |
+| PRD-0009 | Broiler finisher feed | Compound feed; poultry input | EVD-0015 | Proposed from platform aggregate estimate; brand, formulation and named seller quote unavailable. |
+| PRD-0010 | Cassava starch | Processed industrial food/feed/ingredient | EVD-0012 | Trade data records 3,227.65 tonnes of Nigerian imports in 2025; domestic buyer specifications and local supply economics remain unknown. |
+| PRD-0011 | Wet cassava peels | Cassava-processing by-product / wet residue | EVD-0013 | ILRI identifies the stream as a feed-conversion input; no Plateau collection volume has been verified. |
+| PRD-0012 | High-quality cassava peel (HQCP) mash/meal | Processed by-product-derived animal-feed ingredient | EVD-0013 | ILRI technology reference; local commercial availability, quality, regulatory status and buyers unverified. |
+| PRD-0013 | Maize grain | Raw cereal grain; varieties/grades to be separated when known | EVD-0016 | Proposed from a national price-information platform; underlying location-level quotations not supplied. |
+| PRD-0014 | Rice grain | Rice commodity; paddy and milled forms must be recorded separately | EVD-0016 | Proposed from a national price-information platform; form, grade and market level require clarification. |
+| PRD-0015 | Fresh cassava roots | Raw root crop | EVD-0016 | Proposed from a national price-information platform; source geography and quote basis require verification. |
+| PRD-0016 | Cashew nuts in shell | Raw export commodity | EVD-0017 | Q2 2026 export-value signal; not a current farmgate quotation or accessible buyer offer. |
+| PRD-0017 | Cocoa beans, standard quality | Raw export commodity; standard-quality category | EVD-0017 | Q2 2026 export-value signal; quality specifications and current buyer terms require verification. |
+| PRD-0018 | Sesame seeds | Raw oilseed/export commodity | EVD-0017 | Q2 2026 export-value signal; export-grade requirements, cleaning and traceability remain to be verified. |
+
+These records expand the working index beyond the original seed and potato leads. Keep future varieties, grades, paddy/milled forms, processed forms, by-products and specifications separate whenever their markets or technical properties differ.
