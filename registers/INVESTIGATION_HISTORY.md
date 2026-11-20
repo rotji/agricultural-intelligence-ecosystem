@@ -110,3 +110,46 @@
 ## Investigation record rule
 
 Add a dated update under the relevant investigation whenever a source is consulted or a verification step is performed. A contact attempt is not a confirmed finding. Preserve contradictory evidence and failed verification attempts.
+
+
+## INV-0006 — Cassava starch supply and processor utilisation
+
+- **Related opportunity:** OPP-0005
+- **Related action:** ACT-0006
+- **Status:** In progress — initial desk research only
+- **Discovery date:** 20 November 2026
+- **Question:** Does Nigeria's recorded cassava-starch import flow reflect a practical, accessible opportunity for domestic processors, buyer linkage or other support?
+- **Evidence reviewed:** WITS/UN Comtrade 2025 import series; November 2026 industry reporting. [EVD-0012]
+- **Desk-research findings:** WITS records imports of 3,227,650 kg of manioc/cassava starch in 2025, valued at US$2.160 million, with Thailand the largest listed source. A November industry report claims domestic processors operate at approximately 15% of installed capacity; that utilisation estimate is secondary and requires primary verification.
+- **What remains unknown:** Named buyers; food/industrial specifications; moisture, viscosity and purity standards; purchase volumes; current landed import quotations; domestic processor capacity, uptime and yield; root procurement cost; energy, drying, packaging and logistics; reason for under-utilisation; availability of working capital.
+- **Conclusion:** A credible investigation lead, not a validated investment or supply opportunity. The import record is evidence of historical imports, not proof of a buyer currently seeking a local supplier.
+- **Next step:** Map named processors and users, then compare like-for-like specifications and landed/local cost.
+- **Review:** 23 November 2026.
+
+## INV-0007 — Cassava peels-to-animal-feed feasibility
+
+- **Related opportunity:** OPP-0006
+- **Related action:** ACT-0007
+- **Status:** In progress — technology identified; local validation not started
+- **Discovery date:** 20 November 2026
+- **Question:** Can wet cassava peels near Plateau or other accessible Nigerian processing clusters be converted into a safe, saleable feed ingredient with repeatable buyer demand?
+- **Evidence reviewed:** ILRI's public description of high-quality cassava peel mash/meal technology. [EVD-0013]
+- **Desk-research findings:** ILRI describes converting cassava peels into a feed ingredient using processes/equipment adapted from gari production. This is an existing solution to investigate rather than a reason to design a new process from scratch.
+- **What remains unknown:** Local processor locations and volumes; peel freshness and contamination; collection radius; drying method/energy; cyanide, mycotoxin and microbiological controls; feed formulation; approval/standards; feed-mill acceptance; buyer price and volume; seasonal continuity.
+- **Conclusion:** A technically grounded circular-economy lead; no Plateau implementation, safe batch, buyer order or commercial performance has been verified.
+- **Next step:** Locate cassava processors and obtain feed-buyer specifications before considering equipment or capital.
+- **Review:** 23 November 2026.
+
+## INV-0008 — Plateau potato project facility utilisation
+
+- **Related opportunity:** OPP-0007
+- **Related action:** ACT-0008
+- **Status:** In progress — public-source reconciliation only
+- **Discovery date:** 20 November 2026
+- **Question:** Which Plateau potato value-chain facilities are operational, who manages them, and what access/services are available to farmers, processors and buyers?
+- **Evidence reviewed:** Plateau State Government project announcement dated 12 July 2026; THISDAY reporting dated 17 November 2026. [EVD-0009]
+- **Desk-research findings:** The state announcement describes commissioning a tissue-culture laboratory and reports three potato processing plants at Mangu, Bokkos and Barkin Ladi, alongside nine community markets, nine diffuse-light storage facilities, rural roads and water infrastructure. Later media reporting describes the three plants as planned. Earlier AfDB project monitoring also reported storm damage to completed processing-centre buildings and remedial works in 2025; the relationship between those facilities and the 2026 state announcement must be clarified.
+- **What remains unknown:** Current physical condition; which plant sites are equipped and operational; capacity and actual throughput; ownership and operator; maintenance and power/water; fee structure; farmer eligibility; potato input/output standards; buying/off-take contracts; storage occupancy and seasonality.
+- **Conclusion:** Public project activity is established, but current commercial readiness and accessible opportunities are not.
+- **Next step:** Seek current project implementation office confirmation and verify each facility separately before proposing partnership or services.
+- **Review:** 23 November 2026.
