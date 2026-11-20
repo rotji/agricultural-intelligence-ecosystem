@@ -2,7 +2,7 @@
 
 **Catalogue policy:** Open-ended and continuously expanding.  
 **Initial setup date:** 20 November 2026  
-**Current catalogue baseline:** The project previously approved an initial 60-item catalogue, with a plan to expand beyond 100. The complete original list has not yet been migrated into this file; do not invent missing entries.
+**Last reviewed:** 20 November 2026
 
 ## 1. Purpose
 
@@ -51,7 +51,6 @@ These are classification examples, not assertions about local availability or ma
 ## 4. Product record template
 
 For each product or distinct commercial form, capture:
-
 - Product ID: PRD-XXXX (stable; never reused).
 - Canonical name and known aliases.
 - Parent product/family ID.
@@ -76,7 +75,22 @@ For each product or distinct commercial form, capture:
 
 Do not merge distinct grades, varieties or processed forms when their markets or technical characteristics differ.
 
-## 5. Discovery and prioritisation rules
+## 5. Initial evidence-backed leads from seed-sector research
+
+These are distinct planting-material forms surfaced in an official historical NASC report. They are recorded as historical product leads, not as claims of current 2026 availability or supplier stock.
+
+| Product ID | Product | Classification | Historical evidence | Current availability |
+|---|---|---|---|---|
+| PRD-0001 | Maize seed | Planting material / agricultural input | Historically associated with Romarey and Savannah in NASC Annual Report 2009 | Unknown; verify |
+| PRD-0002 | Rice seed | Planting material / agricultural input | Historically associated with Romarey and Savannah in NASC Annual Report 2009 | Unknown; verify |
+| PRD-0003 | Cowpea seed | Planting material / agricultural input | Historically associated with Romarey in NASC Annual Report 2009 | Unknown; verify |
+| PRD-0004 | Sorghum seed | Planting material / agricultural input | Historically associated with Romarey in NASC Annual Report 2009 | Unknown; verify |
+| PRD-0005 | Soybean seed | Planting material / agricultural input | Historically associated with Romarey in NASC Annual Report 2009 | Unknown; verify |
+| PRD-0006 | Potato, fresh/unprocessed | Raw crop product | Provider website includes a product page titled “Unprocessed Potato” | Current stock, grade and origin unknown |
+
+**Important:** A historical supplier listing or public product page does not demonstrate current stock, certified seed-lot availability, product quality, current demand or a completed transaction. See EVD-0002 and EVD-0004.
+
+## 6. Discovery and prioritisation rules
 
 Every research cycle must:
 1. Monitor existing catalogue entries where relevant signals are available.
@@ -88,10 +102,16 @@ Every research cycle must:
 
 Priority A is for active investigation, Priority B for regular monitoring and Discovery queue for new or poorly understood entries. Priority is dynamic; the catalogue is not a list of items that must all be researched deeply every day.
 
-## 6. Baseline migration note
+## 7. Baseline migration note
 
-The previously approved 60-item catalogue should be migrated into this register from its authoritative source when available. Until migrated, refer to the earlier approved catalogue as a prior baseline, but do not claim that this file contains all 60 entries.
+The previously approved 60-item catalogue should be migrated into this register from its authoritative source when available. An initial search of the current repository and accessible Library material on 20 November 2026 did not locate the exact item-by-item list. It has therefore **not** been reconstructed or falsely labelled as migrated.
 
-## 7. Relationship to opportunities
+- **Tracking:** ACT-0004 / INV-0004.
+- **Next step:** Recover the original source from the relevant earlier conversation or file.
+- **Rule:** If the original cannot be recovered, create a separately labelled proposed replacement baseline and preserve the distinction from the historical approved list.
+
+Neither 60 nor 100 is a catalogue ceiling. The product universe remains open-ended.
+
+## 8. Relationship to opportunities
 
 A product discovery is not automatically a business opportunity. Create or link an OPP record only when there is a specific problem, demand signal, supply gap, commercial use, solution route or other opportunity hypothesis worth investigating. Keep product facts and opportunity hypotheses distinct.
