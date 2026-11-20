@@ -2,7 +2,7 @@
 
 ## Master System Architecture and Governance Blueprint
 
-**Version:** 0.4 baseline, including the continuity amendment  
+**Version:** 0.5 working baseline, including the continuity amendment and selected capability-assessment safeguards  
 **Date:** 20 November 2026  
 **Status:** Approved working architecture; implementation remains subject to evidence and capability validation.
 
@@ -271,3 +271,65 @@ Keep navigation and summary information current. Preserve historical records and
 ## 19. Implementation status
 
 This blueprint defines the intended system. It does not by itself implement a live commodity database, automatic data ingestion, a continuously updated producer registry, transaction verification or a market API. Implement capabilities incrementally, only after validating need, access, reliability, cost and maintenance requirements.
+
+
+## 20. Capability-first assessment and solution decisions
+
+This section adapts the relevant capability-first and technology-neutral guidance from the user's Universal Project Governance Standard v1.1 to this agricultural intelligence ecosystem. It does not adopt or reproduce the universal standard wholesale.
+
+### 20.1 Assessment sequence
+
+Before proposing or adopting a technology, service, operating process, infrastructure or new system, identify the required capability independently of the proposed solution. Apply this proportionate sequence:
+
+1. **Requirement:** State the specific agricultural intelligence, production, market, verification, coordination or decision outcome required.
+2. **Required capability:** Define what the ecosystem must be able to do to produce that outcome.
+3. **Existing resources:** Identify suitable people, institutions, processes, data sources, platforms, providers, infrastructure and tools that already offer some or all of the capability.
+4. **Sufficiency:** Determine whether existing capabilities are sufficient, partly sufficient or insufficient for the actual requirement.
+5. **Specific gap:** If insufficient, explain exactly what remains unavailable or inadequate. Do not label a missing skill, data permission, operating relationship or access right as a software gap.
+6. **Alternatives:** Consider using an existing resource, improving a process, reusing or configuring a platform, partnering with a provider, integrating services, licensing/procuring a capability or developing something new.
+7. **Decision and rationale:** Record the proportionate decision and why it fits the evidence, constraints and expected outcome.
+8. **Validation:** Define how the chosen approach will be tested against the original requirement.
+9. **Reassessment trigger:** Identify what material change, failure, cost increase, scale requirement, policy change or new evidence would justify reviewing the decision.
+
+For this ecosystem, examine existing government programmes, research institutions, producer organisations, private companies, commodity platforms, data providers, logistics operators, processors and technology vendors before proposing a new service or product. The suitable solution may be an introduction, implementation, distribution, partnership, data service or operating process rather than software.
+
+### 20.2 Decision outcomes
+
+Use these statuses when a material capability or solution assessment is made:
+
+| Status | Meaning |
+|---|---|
+| Not required | The project does not currently need the capability or technology. |
+| Existing capability sufficient | Current resources reliably meet the requirement. |
+| Reuse or configure existing solution | An available solution can meet the requirement with reasonable adaptation. |
+| Integrate or combine existing solutions | Multiple existing capabilities can jointly deliver the outcome. |
+| Capability gap identified | A specific required capability remains unmet. |
+| Solution under evaluation | Alternatives are being examined; no selection has been made. |
+| Adopted and validated | The selected approach has been implemented and tested against its intended requirement. |
+| Deferred | The capability may matter later, but adoption is not currently justified. |
+| Rejected | The option is unsuitable or does not provide sufficient value. |
+| Development justified | Evidence supports creating a new component because a meaningful gap remains. |
+
+A provider's advertised feature or a platform's existence does not establish that the capability is available to this project. Verify actual access, permissions, operating status, compatibility, cost and terms before treating it as a usable capability.
+
+### 20.3 Proportionate use and reassessment
+
+Apply this assessment at meaningful decision points: when a new capability is required, a repeated operational bottleneck appears, an existing provider or integration is being considered, a pilot fails, scale or risk changes, or a material change in cost, access, policy or performance occurs.
+
+Do not turn routine tool use or every daily discovery into a formal assessment exercise. A short explanation that existing capabilities are sufficient is adequate for a low-risk decision. Use a more detailed assessment when the choice materially affects project direction, expenditure, legal or regulatory exposure, security, data access, infrastructure, long-term dependencies or maintenance.
+
+Where a detailed record is warranted, capture the requirement, capability, existing resources, sufficiency, exact gap, alternatives, selected status and rationale, expected value and trade-offs, validation method, decision-maker/date and reassessment trigger. Link it to relevant evidence, opportunity or decision records.
+
+The governing rule is: **identify the required capability, examine what already exists, and introduce additional complexity only when an evidenced requirement justifies it.**
+
+## 21. Information, data and external-service safeguards
+
+Apply proportionate safeguards when collecting, storing, analysing, sharing or publishing agricultural intelligence:
+
+- Respect source terms, data licences, attribution requirements, API conditions, rate limits and restrictions on reuse or redistribution. Public accessibility alone does not mean unrestricted reuse.
+- Distinguish public information from operational/internal, confidential or restricted information. Do not put credentials, passwords, private personal data, confidential business records or sensitive producer-level information in a public repository.
+- Before connecting an external platform, API, connector, marketplace or AI service, verify that the required operation is supported and that account eligibility, authorisation, permissions, cost, usage limits, data handling, retention and security are acceptable.
+- Collect and disclose only information necessary for the stated research purpose. Preserve provenance and avoid exposing private contact details or commercially sensitive information without an appropriate basis.
+- Treat information supplied by third-party platforms and automated systems as claims requiring source and quality assessment, not as verified reality merely because it was returned by a tool.
+
+These safeguards apply to producer and facility mapping, market observations, stakeholder contacts, platform integrations and future data-sharing arrangements. The depth of review should reflect the sensitivity and consequences of the information or connection.
