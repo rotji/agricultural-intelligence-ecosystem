@@ -33,7 +33,7 @@ Until a verified Google Drive/Sheets connection is available:
 - The workbook and GitHub are **not synchronised automatically**. A change made in one must be reconciled to the other deliberately.
 - Daily automation may read/write GitHub only when its operations are confirmed. It must not claim that it read, wrote or synchronised Google Sheets.
 
-Once a native Google Sheets connection becomes available, agree whether Sheets becomes the operational master for live rows and whether GitHub holds governance plus periodic snapshots. Do not implement two-way automatic sync without a defined conflict, ID and audit-history policy.
+Dataset ownership, sync direction, conflict resolution, audit logging and the cutover gate are now defined in [Synchronization Governance](SYNCHRONIZATION_GOVERNANCE.md). GitHub remains the current master until every cutover check passes.
 
 ## 3. Workbook sheet definitions
 
@@ -104,13 +104,13 @@ Only mark Completed when completion evidence is recorded. Use Unassigned or Not 
 
 The current ChatGPT Google Drive/Sheets connector is not available in this environment, so the file cannot be placed directly into the user's Drive or linked to a native Sheet from this setup session.
 
-## 7. Synchronisation rules until a connector exists
+## 7. Synchronisation rules until cutover
 
-- Use GitHub records as the authoritative state when resolving conflicts.
-- Record workbook edits back into the appropriate Markdown register through an explicit, confirmed update.
+- GitHub remains canonical. Put proposed spreadsheet edits into Change_Queue with stable IDs and evidence.
+- Reconcile approved changes to GitHub explicitly and record confirmed commits in Sync_Log.
 - Preserve history; do not silently overwrite previous observations or decisions.
-- Record the date of each reconciliation.
 - Do not claim automation or real-time sync.
+- Follow SYNCHRONIZATION_GOVERNANCE.md for target dataset owners, one-way snapshot rules and the cutover gate.
 - Keep public contact details distinct from private personal data.
 
 ## 8. Future integration gate
