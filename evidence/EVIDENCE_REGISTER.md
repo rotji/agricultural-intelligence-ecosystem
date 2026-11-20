@@ -131,3 +131,160 @@
 6. Keep personal, confidential or commercially sensitive information out of this public repository unless there is a lawful and necessary reason to include it.
 7. Use stable EVD identifiers and never reuse them.
 8. Keep evidence in its original context; a quotation without grade, unit, volume, location or delivery terms may not be comparable with another quotation.
+
+
+## EVD-0007 — 2026 wet-season agricultural performance and federal market interventions
+
+- **Source organisations:** Federal Ministry of Agriculture and Food Security (FMAFS); National Agricultural Extension and Research Liaison Services (NAERLS), Ahmadu Bello University.
+- **Source titles:** “FG Unveils Measures to Reduce Food Prices, Pledges Market Stabilization and Food Sovereignty”; “NAERLS Presents 2026 Wet Season Agricultural Performance Survey Report to Federal Government”.
+- **URLs:** https://agriculture.gov.ng/fg-unveils-measures-to-reduce-food-prices-pledges-market-stabilization-and-food-sovereignty/ ; https://abu.edu.ng/naerls-presents-2026-wet-season-agricultural-performance-survey-report-to-federal-government/
+- **Publication/announcement dates:** FMAFS page dated 20 November 2026; survey presentation reported 18 November 2026.
+- **Observation/collection date:** 20 November 2026.
+- **Geography:** Nigeria, all 36 states and FCT.
+- **Claim supported:** NAERLS reports that 13 of 17 assessed major crops are projected to record increased production in 2026. Nineteen multidisciplinary teams undertook field assessment across the country from 31 August to 6 September 2026. North-Central was reported as the largest contributor to cereal, legume, root and tuber production. The survey also identifies flood, dry-spell, pest and extension-service challenges. FMAFS announced that three million bags of fertiliser are being prepared for release within the next month and that grains stored under the Bank of Agriculture's Guaranteed Minimum Price programme are expected to be released; detailed distribution modalities were still to be announced.
+- **Evidence level:** Official survey presentation and government intervention announcement; forecasts and policy intentions, not completed production or distribution.
+- **Confidence:** High for what the agencies announced; not evidence of actual output, local allocations, released stock, farmgate prices or an accessible intermediary role.
+- **Limitations:** The survey is a wet-season assessment, not a complete 2026 production census; dry-season production assessment is separate. Fertiliser and grain release dates, locations, eligibility, prices and quantities available to particular buyers require later confirmation.
+- **Related records:** OPP-0002, OPP-0003, ACT-0002, ACT-0003.
+
+## EVD-0008 — October 2026 Nigerian CPI and state food inflation
+
+- **Source organisation:** National Bureau of Statistics (NBS); Voice of Nigeria (VON) reporting the NBS release.
+- **Source title:** October 2026 Consumer Price Index Report.
+- **URLs:** https://microdata.nigerianstat.gov.ng/index.php/catalog/154/related-materials ; https://von.gov.ng/nigerias-headline-inflation-falls-to-14-06-in-october/
+- **Publication date:** NBS catalogue records the October 2026 CPI report as released 16 November 2026; VON report published 16 November 2026.
+- **Observation/collection date:** 20 November 2026.
+- **Geography:** Nigeria, with state-level breakdown including Plateau.
+- **Claim supported:** Headline inflation was 14.06% year-on-year and 0.43% month-on-month. Food inflation was 19.13% year-on-year and -0.75% month-on-month. VON's account of the NBS state table reports Plateau food inflation at -5.83% month-on-month, among the lowest state readings.
+- **Evidence level:** Official statistical release, with state-level detail reported by a public broadcaster.
+- **Confidence:** High for the national figures; medium-high for the Plateau state figure pending direct extraction of the underlying state table.
+- **Limitations:** CPI measures average changes in a defined basket, not individual commodity prices, a market quote, household affordability or a particular farmer's selling price. A negative monthly rate does not mean food is inexpensive; annual food inflation remained positive and monthly declines slowed nationally relative to September.
+- **Related records:** OPP-0002, OPP-0003.
+
+## EVD-0009 — Plateau potato value-chain infrastructure and planned processing expansion
+
+- **Source organisations:** Plateau State Government; THISDAY.
+- **Source titles:** “Governor Mutfwang Commissions Potato Value Chain Project”; “Mutfwang's Farm Support Policies Deliver Results as Plateau Food Inflation Drops”.
+- **URLs:** https://www.plateaustate.gov.ng/news/6a527afff38afca39b3d7b38/ ; https://www.thisdaylive.com/2026/11/17/mutfwangs-farm-support-policies-deliver-results-as-plateau-food-inflation-drops/
+- **Publication dates:** Plateau State Government, 12 July 2026; THISDAY, 17 November 2026.
+- **Observation/collection date:** 20 November 2026.
+- **Geography:** Mangu, Bokkos and Barkin Ladi LGAs, Plateau State, Nigeria.
+- **Claim supported:** The state government reported commissioning a potato value-chain project in July 2026 that includes a tissue-culture laboratory, training centre, equipment and a potato processing facility. The later THISDAY report describes three processing plants as planned across Mangu, Bokkos and Barkin Ladi and reports community markets and storage facilities as part of the wider project.
+- **Evidence level:** Official state project announcement plus secondary reporting of later project plans.
+- **Confidence:** High that the government announced the project; unknown for present operational readiness, throughput, funding, ownership, access rules and commercial off-take.
+- **Limitations:** “Commissioned” infrastructure and “planned” facilities are not proof that plants are operating commercially or buying potatoes. Confirm which facility exists at each site, specifications, capacity, opening dates, procurement process, product standards and buyer arrangements.
+- **Related records:** OPP-0006 (proposed), ACT-0007 (proposed), INV-0007 (proposed), PRD-0006.
+
+## EVD-0010 — FAO Food Price Index, October 2026
+
+- **Source organisation:** Food and Agriculture Organization of the United Nations (FAO).
+- **Source title:** “FAO Food Price Index edges down in October amid subdued demand”.
+- **URL:** https://www.fao.org/newsroom/detail/fao-food-price-index-edges-down-in-october-amid-subdued-demand/en
+- **Publication date:** 6 November 2026.
+- **Observation/collection date:** 20 November 2026.
+- **Geography:** Global international commodity markets.
+- **Claim supported:** The FAO Food Price Index averaged 133.9 points in October, down 1.2% month-on-month and 5.9% above a year earlier. Cereals fell 4.5% month-on-month; sugar rose 6.6%; vegetable oils rose 0.3%; dairy fell 1.1%; meat fell 1.2%.
+- **Evidence level:** Official international price index.
+- **Confidence:** High for reported index values.
+- **Limitations:** The index is not a Nigerian retail, wholesale or farmgate price series. Transmission to Nigeria depends on exchange rates, trade exposure, shipping, local production, policy and product-specific margins.
+- **Related records:** OPP-0002, OPP-0003.
+
+## EVD-0011 — FAO Food Outlook, November 2026
+
+- **Source organisation:** Food and Agriculture Organization of the United Nations (FAO).
+- **Source title:** “FAO Food Outlook: Global food commodity supplies remain generally ample, but risks are mounting”.
+- **URL:** https://fao.sitefinity.cloud/newsroom/detail/fao-food-outlook--global-food-commodity-supplies-remain-generally-ample--but-risks-are-mounting/en
+- **Publication date:** 19 November 2026.
+- **Observation/collection date:** 20 November 2026.
+- **Geography:** Global.
+- **Claim supported:** FAO describes global supplies as generally comfortable, particularly for wheat and coarse grains, while tighter balances are emerging for rice, sugar and vegetable oils. Weather, logistics disruptions and policy uncertainty remain risks. The report covers cereals, oil crops, sugar, meat, dairy, fisheries and aquaculture.
+- **Evidence level:** Official international market assessment.
+- **Confidence:** High for the published assessment.
+- **Limitations:** Global outlook is not a local price forecast. Nigeria/Plateau effects require product-specific import/export, exchange-rate, freight and domestic supply analysis.
+- **Related records:** OPP-0002, OPP-0003.
+
+## EVD-0012 — Nigeria imports of cassava starch in 2025
+
+- **Source organisation:** World Bank World Integrated Trade Solution (WITS), using UN Comtrade trade records.
+- **Source title:** Nigeria — Manioc (cassava) starch imports by country, 2025; HS 110814.
+- **URL:** https://wits.worldbank.org/trade/comtrade/en/country/NGA/year/2025/tradeflow/Imports/partner/ALL/product/110814
+- **Publication/observation period:** 2025 trade year; retrieved 20 November 2026.
+- **Geography:** Nigeria and recorded supplying countries.
+- **Product/form:** Manioc/cassava starch, HS 110814.
+- **Claim supported:** WITS reports 3,227,650 kg imported in 2025, with a trade value of US$2.160 million. Thailand was the largest listed source by volume, followed by Turkey, China and India.
+- **Evidence level:** Officially compiled international merchandise-trade data.
+- **Confidence:** High for the reported customs/trade series.
+- **Limitations:** Imports do not establish an unmet local buyer order, current domestic price competitiveness, local processor capacity or import substitution feasibility. Verify customs classifications, quality specifications and buyer demand before considering a local supply opportunity.
+- **Related records:** OPP-0005 (proposed), PRD-0010 (proposed).
+
+## EVD-0013 — ILRI cassava-peel conversion technology for animal feed
+
+- **Source organisation:** International Livestock Research Institute (ILRI).
+- **Source title:** “New technology turns cassava peels into nutritious, affordable animal feed ingredient”.
+- **URL:** https://www.ilri.org/research/solutions/new-technology-turns-cassava-peels-nutritious-affordable-animal-feed-ingredient
+- **Publication date:** Not clearly displayed on the retrieved solution page; related ILRI knowledge publication dated 2022.
+- **Observation/collection date:** 20 November 2026.
+- **Geography:** Nigeria and wider African livestock-feed context.
+- **Product/form:** Wet cassava peels converted into high-quality cassava peel (HQCP) mash/meal as an animal-feed ingredient.
+- **Claim supported:** ILRI reports that cassava processing in Nigeria generates around 15 million tonnes of wet peels annually and describes a technology using processing steps/equipment adapted from gari production to convert peels into feed ingredients.
+- **Evidence level:** Research-institution technology description and research publication.
+- **Confidence:** High that the technology has been developed and described by ILRI; local commercial performance and availability in Plateau remain unknown.
+- **Limitations:** Wet-peel collection, rapid processing, drying, cyanide/mycotoxin and microbiological safety, quality control, formulation, regulatory requirements, buyer specifications and unit economics must be assessed. No Plateau installation or local buyer has been verified.
+- **Related records:** OPP-0005 (proposed), ACT-0006 (proposed), INV-0006 (proposed), PRD-0011 and PRD-0012 (proposed).
+
+## EVD-0014 — Agromate pilot marketplace and Plateau tomato listing
+
+- **Source organisation:** Agromate marketplace (provider/platform).
+- **Source titles:** Public marketplace and individual Roma tomato listing.
+- **URLs:** https://www.agromate.ng/market ; https://www.agromate.ng/market/pilot-5
+- **Publication/observation dates:** Individual tomato page says listed 24 October 2026; marketplace retrieved 20 November 2026.
+- **Geography:** Nigeria; listed tomato location is Jos South, Plateau State.
+- **Product/form:** Fresh Roma tomato, basket stated as approximately 50 kg.
+- **Claim supported:** Marketplace currently displays multiple pilot listings and buyer requests. A Plateau Vegetable Women Coop Roma tomato listing displays 1.5 tonnes, ₦22,500 per basket (~50 kg), equivalent to ₦450,000 per tonne. The individual page labels the data “Pilot data · demonstration listing” and shows seller identity as not yet verified.
+- **Evidence level:** L3 provider/platform listing; not a verified quotation or completed transaction.
+- **Confidence:** High that the platform displays the listing; low/unknown for real inventory, seller identity, buyer demand or completed trades.
+- **Limitations:** Demonstration/pilot data must not be represented as a live order, verified stock or an achievable price. Confirm the seller, crop, quantity, freshness, grade, harvest date, cold-chain requirements and transaction history independently.
+- **Related records:** OPP-0006 (context only), PRD-0007 (proposed).
+
+## EVD-0015 — FarmPaddy Nigerian livestock and poultry price estimates, 20 November 2026
+
+- **Source organisation:** FarmPaddy marketplace/price-information platform.
+- **Source title:** Nigerian Livestock & Poultry Market Prices.
+- **URL:** https://www.farmpaddy.com/markets
+- **Observation date:** 20 November 2026; page indicated recent update.
+- **Geography:** Nigeria; state-specific values include Plateau.
+- **Products/forms:** Layer day-old chicks; broiler finisher feed; other livestock, poultry and aquaculture inputs.
+- **Claim supported:** Page displays a Plateau layer day-old chick estimate of ₦360,000 per 100 chicks and a broiler finisher feed aggregate/reference price of ₦21,500 per 25 kg bag.
+- **Evidence level:** Platform-modelled market estimate. The page says its prices are modelled from daily field-agent market data and are estimates only; buyers should confirm with sellers.
+- **Confidence:** Medium that the platform displays the values on the observation date; low as a substitute for an identifiable current seller quotation.
+- **Limitations:** No named Plateau hatchery/feed seller, breed, vaccination schedule, delivery terms, feed formulation/brand, batch date or completed trade is attached to the summary value. Confirm directly before decision-making.
+- **Related records:** PRD-0008 and PRD-0009 (proposed).
+
+## EVD-0016 — Useagrios national crop-price estimates, 20 November 2026
+
+- **Source organisation:** Useagrios (price-information platform).
+- **Source titles:** “Food Prices in Nigeria Today”; “Useagrios User Guide”.
+- **URLs:** https://useagrios.com/prices/ ; https://useagrios.com/guide/
+- **Observation date:** 20 November 2026.
+- **Geography:** National averages across major Nigerian markets; not Plateau-specific.
+- **Products/forms:** Maize, rice, tomato, cassava, yam, beans, pepper, onion, cocoa, plantain, sorghum, groundnut, soybean, palm oil, sesame and cashew.
+- **Claim supported:** The page displayed estimates including maize ₦74,468 per 50 kg, rice ₦79,799 per 50 kg, tomato ₦25,110 per crate and cassava ₦45,697 per 100 kg. The platform's guide distinguishes observed prices, trader/community reports and modelled estimates, and says users should compare like units.
+- **Evidence level:** Platform aggregate/mixed estimate, not an identifiable direct quote.
+- **Confidence:** Medium that the figures were displayed on the stated date; low for using them as a local transaction benchmark without the underlying market/source record.
+- **Limitations:** National averages conceal geography, grade and market-level differences. The platform states that some prices are estimates. Do not compare them directly with local quotations until product definitions, units, collection dates and market levels match.
+- **Related records:** PRD-0013 to PRD-0015 (proposed).
+
+## EVD-0017 — Nigeria agricultural exports in Q2 2026
+
+- **Source organisation:** Nairametrics Research, analysis of NBS Foreign Trade in Goods Statistics.
+- **Source title:** “Top 10 most exported agricultural products from Nigeria in Q2 2026”.
+- **URL:** https://nairametrics.com/2026/09/08/top-10-most-exported-agricultural-products-from-nigeria-in-q2-2026/
+- **Publication date:** 8 September 2026; underlying period Q2 2026.
+- **Observation/collection date:** 20 November 2026.
+- **Geography:** Nigeria, international export markets.
+- **Products/forms:** Cashew nuts in shell, standard-quality cocoa beans and sesame seeds.
+- **Claim supported:** The ten leading agricultural export categories generated ₦747.54 billion in Q2 2026; cashew nuts in shell were reported at ₦268.62 billion, standard-quality cocoa beans at ₦154.31 billion and sesame seeds at ₦96.03 billion.
+- **Evidence level:** Secondary analysis of official NBS foreign-trade data.
+- **Confidence:** Medium-high for the reported values; use underlying NBS tables for full audit and product-code verification.
+- **Limitations:** Aggregate export value does not prove current buyer demand accessible to an individual, farmgate prices, exporter margins, quality requirements or Plateau production availability.
+- **Related records:** PRD-0016 to PRD-0018 (proposed).
