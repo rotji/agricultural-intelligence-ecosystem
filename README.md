@@ -24,9 +24,11 @@ The system covers Plateau State, all Nigerian states and the FCT, and relevant i
 2. [Tracking Governance](docs/CONTINUITY_AND_TRACKING_GOVERNANCE.md)
 3. [Tracking System Guide](docs/TRACKING_SYSTEM_GUIDE.md)
 4. [Opportunity Register](registers/OPPORTUNITY_REGISTER.md)
-5. [Action Tracker](registers/ACTION_TRACKER.md)
-6. [Investigation History](registers/INVESTIGATION_HISTORY.md)
-7. [Decision and Learning Log](registers/DECISION_AND_LEARNING_LOG.md)
+5. [Product Catalogue](registers/PRODUCT_CATALOGUE.md)
+6. [Action Tracker](registers/ACTION_TRACKER.md)
+7. [Investigation History](registers/INVESTIGATION_HISTORY.md)
+8. [Decision and Learning Log](registers/DECISION_AND_LEARNING_LOG.md)
+9. [Evidence Register](evidence/EVIDENCE_REGISTER.md)
 
 ## Repository structure
 
@@ -39,6 +41,7 @@ The system covers Plateau State, all Nigerian states and the FCT, and relevant i
 │   └── TRACKING_SYSTEM_GUIDE.md
 ├── registers/
 │   ├── OPPORTUNITY_REGISTER.md
+│   ├── PRODUCT_CATALOGUE.md
 │   ├── ACTION_TRACKER.md
 │   ├── INVESTIGATION_HISTORY.md
 │   └── DECISION_AND_LEARNING_LOG.md
