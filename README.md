@@ -23,12 +23,13 @@ The system covers Plateau State, all Nigerian states and the FCT, and relevant i
 1. [Master System Architecture](docs/MASTER_SYSTEM_ARCHITECTURE.md)
 2. [Tracking Governance](docs/CONTINUITY_AND_TRACKING_GOVERNANCE.md)
 3. [Tracking System Guide](docs/TRACKING_SYSTEM_GUIDE.md)
-4. [Opportunity Register](registers/OPPORTUNITY_REGISTER.md)
-5. [Product Catalogue](registers/PRODUCT_CATALOGUE.md)
-6. [Action Tracker](registers/ACTION_TRACKER.md)
-7. [Investigation History](registers/INVESTIGATION_HISTORY.md)
-8. [Decision and Learning Log](registers/DECISION_AND_LEARNING_LOG.md)
-9. [Evidence Register](evidence/EVIDENCE_REGISTER.md)
+4. [Spreadsheet Operating Model](docs/SPREADSHEET_OPERATING_MODEL.md)
+5. [Opportunity Register](registers/OPPORTUNITY_REGISTER.md)
+6. [Product Catalogue](registers/PRODUCT_CATALOGUE.md)
+7. [Action Tracker](registers/ACTION_TRACKER.md)
+8. [Investigation History](registers/INVESTIGATION_HISTORY.md)
+9. [Decision and Learning Log](registers/DECISION_AND_LEARNING_LOG.md)
+10. [Evidence Register](evidence/EVIDENCE_REGISTER.md)
 
 ## Repository structure
 
