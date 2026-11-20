@@ -11,6 +11,9 @@
 | OPP-0002 | Fertiliser distribution coordination | Discovered | B | Verify participating distributors and terms | 21 Nov 2026 |
 | OPP-0003 | Grain market-information and sourcing services | Discovered | B | Verify release details and buyer procedures | 21 Nov 2026 |
 | OPP-0004 | Fresh-produce sourcing/aggregation linkage | Discovered | Discovery queue | Verify whether a Jos wholesaler sources from independent producers or permits an intermediary role | Not set |
+| OPP-0005 | Cassava starch supply and processor-utilisation gap | Investigating | A — active investigation | Identify domestic starch processors, industrial specifications, buyer requirements and capacity economics | 23 Nov 2026 |
+| OPP-0006 | Cassava peels-to-animal-feed value chain | Investigating | B | Verify nearby cassava peel volumes, process access, feed safety and buyer demand for HQCP | 23 Nov 2026 |
+| OPP-0007 | Plateau potato infrastructure and market utilisation | Investigating | A — active investigation | Verify operational status, ownership/access, capacity, farmer supply and off-take for the reported potato facilities | 23 Nov 2026 |
 
 ---
 
@@ -117,3 +120,60 @@
 ## Register maintenance
 
 Use the continuity governance and tracking guide in docs/. Preserve record history and stable identifiers.
+
+
+---
+
+## OPP-0005 — Cassava starch supply and processor-utilisation gap
+
+- **Date discovered / updated:** 20 November 2026
+- **Origin:** WITS/UN Comtrade 2025 import record; November 2026 reporting on Nigeria's cassava-processing sector. [EVD-0012]
+- **Problem/demand hypothesis:** Nigeria imported 3,227.65 tonnes of cassava starch in 2025, valued at approximately US$2.16 million. A November industry report also describes low utilisation among domestic processors. This creates a credible question about why local processors are not supplying more industrial demand, but import data alone does not identify a buyer willing to switch.
+- **Geography:** Nigeria; investigate potential processors and industrial users nationally, then assess Plateau supply relationships.
+- **Product/value chain:** Fresh cassava roots → starch extraction/drying/packaging → industrial starch users; related forms such as HQCF, garri and animal-feed residues must remain distinct.
+- **Existing providers/alternatives:** Domestic cassava processors, industrial starch importers and distributors, equipment/process-technology providers and established food/industrial ingredient suppliers. Specific capable providers and available capacity remain to be mapped.
+- **Evidence level/confidence:** WITS trade series is an official compiled record for 2025 imports; processor utilisation is a secondary industry-reported estimate. Medium confidence that a structural supply/competitiveness question exists; low confidence that a viable local commercial route is accessible.
+- **Status/priority:** Investigating; Priority A for desk research because import volume and domestic industry under-utilisation are material signals.
+- **Objective:** Determine actual industrial demand, quality/specification requirements, import landed cost versus local production cost, existing capacity, and barriers to utilisation.
+- **Next action:** Identify industrial starch buyers and operating Nigerian starch processors; obtain specifications and comparable current quotations; distinguish buyer demand from import statistics.
+- **Dependencies:** Named buyer evidence, domestic processor capacity and uptime, root supply, energy/logistics costs, quality standards, financing and import competition.
+- **Owner:** Unassigned.
+- **Capital level:** Processing is likely capital- and operations-intensive; Level 0 participation through market information or buyer/supplier introductions is only a hypothesis, not an established route.
+- **Review date:** 23 November 2026.
+- **Revisit/closure condition:** Elevate only when a buyer specification and a capable supplier/processor can be linked with comparable economics; park if local production cannot compete or demand is not accessible.
+
+## OPP-0006 — Cassava peels-to-animal-feed value chain
+
+- **Date discovered / updated:** 20 November 2026
+- **Origin:** ILRI technology description for high-quality cassava peel (HQCP) mash/meal. [EVD-0013]
+- **Problem/opportunity hypothesis:** Cassava processing generates wet peels that can become an animal-feed ingredient through an established research-institution-described process. A waste-to-value route may connect cassava processors to poultry, livestock and feed-mill demand.
+- **Geography:** Nigeria-wide technology relevance; local processor and buyer evidence in Plateau has not been established.
+- **Product/value chain:** Wet cassava peels (by-product) → processing/drying and quality control → HQCP mash/meal (feed ingredient).
+- **Existing solution/provider:** ILRI has documented the technology. Local operators, equipment suppliers, licensed feed manufacturers and commercial users must be identified.
+- **Evidence level/confidence:** Research-institution technology evidence; no local deployment, buyer contract or transaction verified. Medium confidence in technical relevance; low confidence in local commercial feasibility.
+- **Status/priority:** Investigating; Priority B pending local raw material and buyer validation.
+- **Objective:** Test whether sufficient fresh peels and nearby feed demand exist to support a safe, repeatable processing route.
+- **Next action:** Identify cassava processors and their daily wet-peel volumes, then obtain feed-mill/poultry/livestock buyer specifications and price indications for HQCP.
+- **Dependencies:** Short collection radius, rapid handling, drying/energy, cyanide and mycotoxin control, microbial safety, feed formulation, relevant regulatory requirements and buyer acceptance.
+- **Owner:** Unassigned.
+- **Capital level:** Processing may require Level 1–2 equipment and working capital; a Level 0 information/coordination role is unproven.
+- **Review date:** 23 November 2026.
+- **Revisit/closure condition:** Continue only if local peel supply, safe processing access and buyer interest can be demonstrated; park if feed economics or safe processing are impractical.
+
+## OPP-0007 — Plateau potato infrastructure and market utilisation
+
+- **Date discovered / updated:** 20 November 2026
+- **Origin:** Plateau State Government's 12 July 2026 project announcement and a 17 November 2026 THISDAY report. [EVD-0009]
+- **Problem/opportunity hypothesis:** Publicly reported tissue-culture, storage, market, road, water and processing investments may create value-chain opportunities if assets are operational and accessible to farmers, processors and buyers. The practical gap may be utilisation, seed multiplication, aggregation, quality control, maintenance or market off-take—not necessarily new infrastructure.
+- **Geography:** Mangu, Bokkos and Barkin Ladi LGAs, Plateau State.
+- **Product/value chain:** Potato seed/tissue culture → field production → aggregation/storage → fresh markets and processing products.
+- **Existing providers/alternatives:** Plateau State Potato Value Chain Project and associated government/project implementation structures; existing potato producers, markets, storage operators and processors. Exact operating entities and commercial roles require confirmation.
+- **Evidence level/confidence:** Official state announcement confirms what the project reported commissioning/establishing; subsequent media reporting uses different language about planned plants. High confidence that the project was publicly announced; low confidence about current operational readiness, throughput and commercial access.
+- **Status/priority:** Investigating; Priority A because the assets are local and potentially material, but no operating capacity or buyer relationship is established.
+- **Objective:** Establish what facilities physically exist, their operating status, ownership/management, access rules, capacity, product standards, input supply and buyer/off-take arrangements.
+- **Next action:** Obtain a current facility-by-facility status from the project implementation office and identify the responsible operators; verify the tissue-culture lab, processing plants, nine reported storage facilities and markets before proposing any service.
+- **Dependencies:** Project-office confirmation, facility access, current operating data, potato producer volumes, processing specifications and identifiable buyer/off-take.
+- **Owner:** Unassigned.
+- **Capital level:** Infrastructure itself is Level 3–4; lower-capital services such as producer information, quality coordination or buyer linkage are hypotheses only and require an authorised partner route.
+- **Review date:** 23 November 2026.
+- **Revisit/closure condition:** Elevate a specific opportunity only after operational assets, accessible users and a defined unmet need are verified; park any proposal dependent on unavailable/non-operational facilities.
