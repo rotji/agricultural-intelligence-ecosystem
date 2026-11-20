@@ -48,6 +48,7 @@ The system covers Plateau State, all Nigerian states and the FCT, and relevant i
 ├── daily-briefs/
 │   └── README.md
 └── evidence/
+    ├── EVIDENCE_REGISTER.md
     └── README.md
 ```
 
