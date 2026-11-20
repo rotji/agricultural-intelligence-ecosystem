@@ -16,30 +16,30 @@
   4. Which businesses are operating and currently supplying seed?
   5. What are availability, seed-lot identity, SeedCodex status, price, pack size, minimum quantity and delivery terms?
   6. Would any business permit a written information, farmer-awareness, demand-coordination or referral arrangement? What authorisation is needed?
-- **Sources to prioritise:** NASC public directory and direct confirmation from NASC; current business confirmation; official regulatory documents.
+- **Sources consulted:** NASC public seed entrepreneur directory; NASC National Agricultural Seed Policy 2022; NASC Annual Report 2009; Fruits and Veggies Global public website; NASC office/contact pages.
+- **Sources to prioritise next:** Direct confirmation from NASC; current business confirmation; official regulatory documents.
 
 ### Findings — 20 November 2026
 
-1. NASC's current public page is titled “Seed Producers” and describes its contents as the “List of Licensed Seed Entrepreneurs in Nigeria.” Search results surfaced at least these Plateau-address entries:
+1. NASC's current public page is titled “Seed Producers” and describes its contents as the “List of Licensed Seed Entrepreneurs in Nigeria.” The search result retrieved on 20 November 2026 surfaced these six Plateau-address entries:
    - Fruits and Veggies Global Ltd — Plot 10800, Du Road, Zawan, Jos.
-   - Romarey Ventures Nig. Ltd — 2, Gindiri Junction Road, Mangu.
-   - Savannah Seed Limited — No. 7 Julius Bala Crescent, Old Legislative Quarters, Jos.
    - DDES Royal Agro Company Ltd — Army vacated area near Golf Club, Rayfield, Jos.
    - Dia Concepts Seeds Limited — No. 11, behind NESCO, Bukuru.
-   - Wedurat Agro Interbiz Nig. Limited — Last Floor, NUT House, Anguldi-Zawan, Jos South.
+   - Wedurat Agro Interbiz Nig. Limited — Last Floor, NUT House, Anguldi-Zawan, Jos South LGA.
    - Zaron Seeds — Shop E6, Hallmark Plaza, Jos.
-   - Bicco-Agro Products Ltd — 1 Alheri, Link off Zaria Road, Jos.
+   - Bicco-Agro Products Ltd — 1 Alheri, link off Zaria Road, Jos.
    Source: EVD-0001.
-2. The directory does not display licence expiry dates, current crop/variety permissions, seed-lot identifiers, live stock or prices. Listing is not sufficient evidence that a business is currently operating or has a valid current licence for a particular product. NASC confirmation remains necessary.
-3. Fruits and Veggies Global's own website describes a wholesale fresh and processed fruit/vegetable business, says deliveries start from 500 kg, gives a Zawan/Jos address and displays contact details. It does not describe seed products on the reviewed homepage/product page. This may be a multi-activity business, but its seed role and current operational status require confirmation. Source: EVD-0002.
-4. NASC's 2009 Annual Report historically lists Romarey as supplying maize, rice, cowpea, sorghum and soybean seed; the same report historically describes Savannah Seed as a small-scale producer of maize hybrid/open-pollinated and rice seed, with custom seed processing. These are historical product signals only, not current stock or current product permissions. Source: EVD-0004.
-5. NASC's National Agricultural Seed Policy 2022 describes certified seed marketing as the responsibility of duly registered/licensed seed companies, community seed producers and seed dealers; it describes SeedCodex as a verification/authentication label for passed seed lots and sets requirements around variety release/registration. A user-led seed sales route must not be assumed lawful without required status or authorisation. A non-sales service/referral route would also need clear permission and terms. Source: EVD-0003.
-6. NASC lists its North-Central Zonal Office at Angwan Daba, Bukuru Bye Pass, Jos, and publishes national contact details +234 811 388 7697 and info@seedcouncil.gov.ng. This is a practical regulator-verification route. Source: EVD-0005.
-7. A secondary company-information page reports ZARON SEEDS NIGERIA LIMITED as inactive, but the page indicates its information was last updated two years ago and the exact legal-entity match with the NASC directory label “Zaron Seeds” is not proven. Treat as a conflict requiring official CAC/NASC confirmation, not as a verified inactive status. Source: EVD-0006.
+2. **Correction to the initial supplier list:** Romarey Ventures Nig. Limited and Savannah Seed Limited were included in the NASC Annual Report 2009, not in the six Plateau entities surfaced in the current directory excerpt retrieved on 20 November 2026. The earlier 19 November brief's characterisation of all three original businesses as current directory entries should not be relied on without rechecking. The historical report does not prove that Romarey or Savannah is currently active, licensed or supplying seed. Source: EVD-0004.
+3. The retrieved directory excerpt does not establish that the six entries are the complete Plateau list. It does not display licence expiry dates, current crop/variety permissions, seed-lot identifiers, live stock or prices. Listing is not sufficient proof that a business is currently operating or has a valid licence for a particular seed class. NASC confirmation remains necessary.
+4. Fruits and Veggies Global's website describes a wholesale fresh and processed fruit/vegetable business, says deliveries start from 500 kg, gives a Zawan/Jos address and displays telephone/email contact details. It has a product page titled “Unprocessed Potato.” The site does not describe seed products on the reviewed pages. Its seed-directory entry and wholesale produce activity may relate to different business lines; verify directly. Source: EVD-0002.
+5. NASC's 2009 Annual Report historically lists Romarey as dealing in maize, rice, cowpea, sorghum and soybean seed. It historically describes Savannah Seed as a small-scale producer of maize hybrids/open-pollinated maize and rice seed, with custom seed processing. These are historical signals only, not current stock or current product permissions. Source: EVD-0004.
+6. NASC's National Agricultural Seed Policy 2022 describes certified seed marketing as the responsibility of duly registered/licensed seed companies, community seed producers and seed dealers; it describes SeedCodex as a verification/authentication label for passed seed lots and sets requirements around variety release/registration. A user-led seed sales route must not be assumed lawful without required status or authorisation. A non-sales service/referral route would also need clear permission and terms. Source: EVD-0003.
+7. NASC lists its North-Central Zonal Office at Angwan Daba, Bukuru Bye Pass, Jos, and publishes national contact details +234 811 388 7697 and info@seedcouncil.gov.ng. This is a practical regulator-verification route. Source: EVD-0005.
+8. A secondary company-information page reports ZARON SEEDS NIGERIA LIMITED as inactive, but the page indicates its information was last updated two years before retrieval and the exact legal-entity match with “Zaron Seeds” in the NASC directory is not proven. Treat as a conflict requiring official CAC/NASC confirmation, not as a verified inactive status. Source: EVD-0006.
 
-- **What is established:** The NASC public directory includes the named Plateau-address entries; provider websites and historical reports supply additional leads; the national seed policy identifies regulatory requirements.
-- **What is not established:** Current licence validity for each business, operational status, authorised crop/seed classes, varieties, seed-lot quality, stock, prices, supplier willingness to partner or any commercial opportunity.
-- **Conclusion:** The original three-company list was incomplete as a discovery list. Expand verification to all Plateau entities surfaced in the current NASC directory and confirm the full Plateau list with NASC.
+- **What is established:** Six named Plateau-address entries appear in the retrieved current NASC directory excerpt; NASC's historical report documents Romarey and Savannah seed activities in 2009; the national seed policy identifies regulatory requirements.
+- **What is not established:** Completeness of the current Plateau directory excerpt, current licence validity for any entity, current operational status, authorised crop/seed classes, varieties, seed-lot quality, stock, prices, supplier willingness to partner or any commercial opportunity.
+- **Conclusion:** The initial three-company list was incomplete as a current verification plan. Verify the six current directory leads and ask NASC for a complete current Plateau list. Keep Romarey and Savannah as historical-only leads until direct current confirmation is obtained.
 - **Next step:** Complete ACT-0001, beginning with NASC confirmation before treating any company as an active supplier or partner.
 
 ## INV-0002 — Fertiliser distribution access
