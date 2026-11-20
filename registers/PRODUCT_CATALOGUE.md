@@ -75,20 +75,20 @@ For each product or distinct commercial form, capture:
 
 Do not merge distinct grades, varieties or processed forms when their markets or technical characteristics differ.
 
-## 5. Initial evidence-backed leads from seed-sector research
+## 5. Initial product records from seed and fresh-produce research
 
-These are distinct planting-material forms surfaced in an official historical NASC report. They are recorded as historical product leads, not as claims of current 2026 availability or supplier stock.
+The following are evidence-backed historical product leads or provider-listed product forms. They are not claims of current local stock, seed-lot availability, demand or completed transactions.
 
-| Product ID | Product | Classification | Historical evidence | Current availability |
+| Product ID | Product | Classification | Evidence and provenance | Current availability |
 |---|---|---|---|---|
-| PRD-0001 | Maize seed | Planting material / agricultural input | Historically associated with Romarey and Savannah in NASC Annual Report 2009 | Unknown; verify |
-| PRD-0002 | Rice seed | Planting material / agricultural input | Historically associated with Romarey and Savannah in NASC Annual Report 2009 | Unknown; verify |
-| PRD-0003 | Cowpea seed | Planting material / agricultural input | Historically associated with Romarey in NASC Annual Report 2009 | Unknown; verify |
-| PRD-0004 | Sorghum seed | Planting material / agricultural input | Historically associated with Romarey in NASC Annual Report 2009 | Unknown; verify |
-| PRD-0005 | Soybean seed | Planting material / agricultural input | Historically associated with Romarey in NASC Annual Report 2009 | Unknown; verify |
-| PRD-0006 | Potato, fresh/unprocessed | Raw crop product | Provider website includes a product page titled “Unprocessed Potato” | Current stock, grade and origin unknown |
+| PRD-0001 | Maize seed | Planting material / agricultural input | NASC Annual Report 2009 historically associated this seed with Romarey and Savannah Seed | Unknown; verify |
+| PRD-0002 | Rice seed | Planting material / agricultural input | NASC Annual Report 2009 historically associated this seed with Romarey and Savannah Seed | Unknown; verify |
+| PRD-0003 | Cowpea seed | Planting material / agricultural input | NASC Annual Report 2009 historically associated this seed with Romarey | Unknown; verify |
+| PRD-0004 | Sorghum seed | Planting material / agricultural input | NASC Annual Report 2009 historically associated this seed with Romarey | Unknown; verify |
+| PRD-0005 | Soybean seed | Planting material / agricultural input | NASC Annual Report 2009 historically associated this seed with Romarey | Unknown; verify |
+| PRD-0006 | Potato, fresh/unprocessed | Raw crop product | Fruits and Veggies Global website lists a product page titled “Unprocessed Potato” | Current stock, grade, quantity and origin unknown |
 
-**Important:** A historical supplier listing or public product page does not demonstrate current stock, certified seed-lot availability, product quality, current demand or a completed transaction. See EVD-0002 and EVD-0004.
+**Important:** Historical supplier information and a public product page do not demonstrate current stock, certified seed-lot availability, product quality, current demand or a completed transaction. See EVD-0002 and EVD-0004. The company/product listing for potatoes is provider-reported. The seed-product associations are historical 2009 records.
 
 ## 6. Discovery and prioritisation rules
 
