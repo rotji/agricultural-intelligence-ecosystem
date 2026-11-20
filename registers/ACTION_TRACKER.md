@@ -55,3 +55,27 @@
 - **Cancelled:** deliberately stopped with reason.
 
 Never mark completed based only on a proposed action or an attempted enquiry. Record a dated update and supporting evidence.
+
+
+## New actions — 20 November 2026
+
+| ID | Related record | Action | Status | Owner | Target/review | Dependency |
+|---|---|---|---|---|---|---|
+| ACT-0006 | OPP-0005 / INV-0006 | Map Nigerian cassava-starch processors and industrial buyers; obtain comparable specifications, capacity and price evidence | Not started | Unassigned | 23 Nov 2026 | Identifiable processors/buyers and comparable product specifications |
+| ACT-0007 | OPP-0006 / INV-0007 | Test local HQCP feed feasibility by identifying cassava processors, wet-peel volumes and potential feed buyers | Not started | Unassigned | 23 Nov 2026 | Processor-level peel supply, buyer specifications, safety and regulatory requirements |
+| ACT-0008 | OPP-0007 / INV-0008 | Verify current operation, management, capacity and access arrangements for Plateau potato project facilities | Not started | Unassigned | 23 Nov 2026 | Current project implementation office/facility operator confirmation |
+
+### ACT-0006 — Cassava starch processor and buyer map
+- **Expected result:** A shortlist of actual Nigerian starch processors and industrial users, including product specifications, current capacity/uptime and comparable buyer/seller price evidence.
+- **Starting evidence:** WITS 2025 imports record 3,227.65 tonnes of cassava starch valued at US$2.16 million. A separate industry report claims low domestic processor utilisation; verify this independently. [EVD-0012]
+- **Do not:** Treat import volume as an order for a new supplier or assume that a local plant can compete with landed import cost.
+
+### ACT-0007 — HQCP feed feasibility
+- **Expected result:** Evidence of local wet-peel availability, feasible collection radius, safe processing access and buyer interest in HQCP.
+- **Starting evidence:** ILRI documents the cassava-peel conversion technology. No local Plateau deployment or buyer is verified. [EVD-0013]
+- **Do not:** Assume any cassava peel can be fed directly to animals or skip safety, formulation and regulatory checks.
+
+### ACT-0008 — Plateau potato facility status
+- **Expected result:** A dated facility-by-facility status for the tissue-culture lab, processing plants, storage and community-market components, including operator/access and actual operating capacity where available.
+- **Starting evidence:** Plateau State Government's project announcement and later media reporting use differing descriptions of processing-plant completion/planning. [EVD-0009]
+- **Do not:** Advertise capacity, offer supply or propose an intermediary service until operating status and access are verified.
