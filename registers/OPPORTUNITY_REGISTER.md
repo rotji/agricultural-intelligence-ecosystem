@@ -1,13 +1,13 @@
 # Opportunity Register
 
 **Last reviewed:** 20 November 2026  
-**Register status:** Initial records seeded from the 19 November daily brief; one new fresh-produce sourcing hypothesis added after public-source review. None of these entries is a validated commercial opportunity.
+**Register status:** Initial records seeded from the 19 November daily brief; one fresh-produce sourcing hypothesis added after public-source review. None of these entries is a validated commercial opportunity.
 
 ## Register index
 
 | ID | Opportunity | Status | Priority | Next action | Review |
 |---|---|---|---|---|---|
-| OPP-0001 | Seed-quality and supplier-to-farmer coordination | Investigating | A — active verification | Verify the Plateau entities surfaced in NASC's public directory | 21 Nov 2026 |
+| OPP-0001 | Seed-quality and supplier-to-farmer coordination | Investigating | A — active verification | Confirm current status and scope of six Plateau entities surfaced in NASC directory | 21 Nov 2026 |
 | OPP-0002 | Fertiliser distribution coordination | Discovered | B | Verify participating distributors and terms | 21 Nov 2026 |
 | OPP-0003 | Grain market-information and sourcing services | Discovered | B | Verify release details and buyer procedures | 21 Nov 2026 |
 | OPP-0004 | Fresh-produce sourcing/aggregation linkage | Discovered | Discovery queue | Verify whether a Jos wholesaler sources from independent producers or permits an intermediary role | Not set |
@@ -18,22 +18,29 @@
 
 - **Date discovered:** 19 November 2026
 - **Last updated:** 20 November 2026
-- **Origin:** Agricultural Intelligence Daily Brief, 19 November 2026; NASC seed entrepreneur directory; National Agricultural Seed Policy 2022; historical NASC Annual Report 2009.
+- **Origin:** Agricultural Intelligence Daily Brief, 19 November 2026; NASC public seed-entrepreneur directory; National Agricultural Seed Policy 2022; historical NASC Annual Report 2009.
 - **Problem hypothesis:** Seed quality and access to suitable planting material may constrain crop production. The prior brief reported seed-quality constraints and a decline in soybean production despite increased cultivated area.
 - **Geography:** Nigeria; initial supplier and regulator investigation in Plateau State.
 - **Product/value chain:** Seeds and planting materials, initially including soybean, maize, rice, cowpea and sorghum; overall scope remains open to all crop seed and planting-material categories.
 - **Potential opportunity types:** Supplier-to-farmer coordination, demand aggregation, seed availability information, compliant seed awareness/extension, field-performance information and a permitted referral or service arrangement with an authorised operator.
 - **Existing providers/alternatives:** NASC-listed seed entrepreneurs, licensed seed companies, community seed producers, seed dealers, agro-dealers, agronomists and farmer organisations.
-- **Current public-directory leads:** NASC's public “List of Licensed Seed Entrepreneurs in Nigeria” search results surfaced these Plateau-address entries: Fruits and Veggies Global Ltd (Zawan, Jos); Romarey Ventures Nig. Ltd (Mangu); Savannah Seed Limited (Jos); DDES Royal Agro Company Ltd (Rayfield, Jos); Dia Concepts Seeds Limited (Bukuru); Wedurat Agro Interbiz Nig. Limited (Anguldi-Zawan, Jos South); Zaron Seeds (Jos); and Bicco-Agro Products Ltd (Jos). Treat these as directory leads, not proof of current operations, active licence validity, seed stock or crop-specific authorisation. [EVD-0001]
-- **Historical product signals:** NASC's 2009 Annual Report historically associated Romarey with maize, rice, cowpea, sorghum and soybean seed, and Savannah Seed with maize hybrid/open-pollinated and rice seed. This is historical only and must not be treated as their current product range. [EVD-0004]
+- **Current public-directory leads:** The NASC public page titled “List of Licensed Seed Entrepreneurs in Nigeria” currently surfaced these six Plateau-address entities in the search result retrieved on 20 November 2026:
+  1. Fruits and Veggies Global Ltd — Plot 10800, Du Road, Zawan, Jos.
+  2. DDES Royal Agro Company Ltd — Army vacated area near Golf Club, Rayfield, Jos.
+  3. Dia Concepts Seeds Limited — No. 11, behind NESCO, Bukuru.
+  4. Wedurat Agro Interbiz Nig. Limited — Last Floor, NUT House, Anguldi-Zawan, Jos South LGA.
+  5. Zaron Seeds — Shop E6, Hallmark Plaza, Jos.
+  6. Bicco-Agro Products Ltd — 1 Alheri, link off Zaria Road, Jos.
+  These are current public-directory leads, not proof of present operations, current individual licence validity, stock or crop-specific authorisation. Confirm the full Plateau list and each entity's status directly with NASC. [EVD-0001]
+- **Historical-only supplier leads:** NASC's 2009 Annual Report historically associated Romarey Ventures Nig. Limited with maize, rice, cowpea, sorghum and soybean seed, and described Savannah Seed Limited as a small-scale producer of maize hybrids/open-pollinated maize and rice. They were not among the six Plateau entries in the current directory excerpt retrieved on 20 November 2026. Do not treat them as current directory entries or current suppliers without fresh confirmation. [EVD-0004]
 - **Important regulatory condition:** NASC's 2022 policy says certified-seed marketing is to be carried out by duly registered/licensed seed companies, community seed producers and seed dealers; it also describes SeedCodex authentication for passed seed lots. Do not assume the user can independently sell or market certified seed without the required status/authorisation. A possible low-capital route would need to be a clearly permitted service or referral arrangement under an authorised provider, confirmed with NASC. [EVD-0003]
-- **Evidence level:** Official directory and policy sources; historical official crop information; no verified current seed transaction, stock or direct supplier confirmation.
+- **Evidence level:** Official current directory listing and policy sources; official but historical supplier/product details; no verified current seed transaction, stock or direct supplier confirmation.
 - **Confidence:** Medium that the seed value chain merits investigation; low/unknown for any specific commercial arrangement.
 - **Status:** Investigating.
-- **Priority:** A — because the issue has a reported production link, identifiable local providers and a regulator with a Jos zonal office.
+- **Priority:** A — the issue has a reported production link, identifiable local leads and a regulator with a Jos zonal office.
 - **Objective:** Determine whether a real, compliant and accessible coordination, extension or information role exists without purchasing inventory or misrepresenting authorisation.
-- **Next action:** Ask NASC to confirm which Plateau directory entries currently hold valid licences, for which seed classes/species, and which firms are active; then verify product range, stock, prices and terms directly with the relevant firms.
-- **Dependencies:** Current licence/renewal status; permitted seed classes and crop species; seed-lot certification/SeedCodex; actual stock; price and quantity; delivery area; and written permission/terms for any independent service or referral role.
+- **Next action:** Ask NASC to confirm the full current Plateau directory, the valid licence/renewal status of each entity, the seed classes/species authorised and which businesses are currently active. Then verify product range, seed lots, stock, prices and terms directly with relevant firms.
+- **Dependencies:** Current licence/renewal status; permitted seed classes and crop species; seed-lot certification/SeedCodex; actual stock; price and quantity; delivery area; written permission/terms for any independent service or referral role.
 - **Owner:** Unassigned.
 - **Capital level:** Level 0 may be possible for a non-sales information/coordination service under a written arrangement; not established. Seed production or certified-seed marketing has regulatory and operational requirements.
 - **Review date:** 21 November 2026.
