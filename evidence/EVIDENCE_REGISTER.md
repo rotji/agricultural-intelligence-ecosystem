@@ -30,11 +30,18 @@
 - **Publication date:** Not stated on the live directory page.
 - **Observation/collection date:** 20 November 2026.
 - **Geography:** Nigeria; Plateau State entries.
-- **Claim supported:** The current public directory page identifies seed entrepreneurs and includes a number of Plateau-address entries. The retrieved directory excerpts surfaced Fruits and Veggies Global Ltd, Romarey Ventures Nig. Ltd, Savannah Seed Limited, DDES Royal Agro Company Ltd, Dia Concepts Seeds Limited, Wedurat Agro Interbiz Nig. Limited, Zaron Seeds and Bicco-Agro Products Ltd.
-- **Evidence level:** Official directory listing (institutional source); not a completed transaction or direct confirmation of current operating status.
-- **Confidence:** High that the names/addresses appear in the published directory as retrieved; unknown for present operations, current licence validity, crop-specific permissions, stock or seed-lot status.
-- **Verification method:** Public NASC directory search result retrieved on 20 November 2026.
-- **Limitations:** The page does not provide licence issue/expiry dates, current crop portfolios, specific seed lots, stock quantities, prices, SeedCodex details or direct confirmation that each listed entity remains operational. Search excerpts are not a formal certification of the complete Plateau list. Confirm directly with NASC.
+- **Claim supported:** The current NASC public page is explicitly titled “LIST OF LICENSED SEED ENTREPRENEURS IN NIGERIA”. Its retrieved search excerpt identifies these Plateau-address entries:
+  1. Fruits and Veggies Global Ltd — Plot 10800, Du Road, Zawan, Jos.
+  2. DDES Royal Agro Company Ltd — Army vacated area near Golf Club, Rayfield, Jos.
+  3. Dia Concepts Seeds Limited — No. 11, behind NESCO, Bukuru.
+  4. Wedurat Agro Interbiz Nig. Limited — Last Floor, NUT House, Anguldi-Zawan, Jos South LGA.
+  5. Zaron Seeds — Shop E6, Hallmark Plaza, Jos.
+  6. Bicco-Agro Products Ltd — 1 Alheri, link off Zaria Road, Jos.
+- **Evidence level:** Official institutional directory listing. This is not a completed transaction, a seed-lot certificate or direct confirmation of present operations.
+- **Confidence:** High that the six names/addresses above appear in the retrieved current directory excerpt; unknown for present operations, actual licence status/expiry, crop-specific permissions, stock or seed-lot status.
+- **Verification method:** NASC public directory search result retrieved on 20 November 2026.
+- **Limitations:** The page excerpt retrieved does not establish that these six constitute the complete Plateau list. It does not show licence issue/expiry dates, current crop portfolios, specific seed lots, stock quantities, prices, SeedCodex details or whether each entity remains operational. Confirm the full Plateau list and entity-level status directly with NASC.
+- **Important reconciliation:** Romarey Ventures Nig. Limited and Savannah Seed Limited were found in NASC's 2009 Annual Report, but were not among the six Plateau entities in the current directory excerpt retrieved on 20 November 2026. Do not describe them as confirmed entries in the current directory on the basis of the historical report.
 - **Related records:** OPP-0001, ACT-0001, INV-0001.
 
 ## EVD-0002 — Fruits and Veggies Global public business website
@@ -45,29 +52,29 @@
 - **Publication date:** Not stated for the page; footer displays 2024 copyright.
 - **Observation/collection date:** 20 November 2026.
 - **Geography:** Du/Zawan, Jos, Plateau State, Nigeria.
-- **Claim supported:** The company's website describes it as a wholesale provider of fresh and processed fruit and vegetable products, says it delivers quantities from 500 kg and above, lists Plot PL 10800, Du Zawan, Jos, and displays telephone 07064000770 and email contact@fruitsandveggiesng.com. A product page is titled “Unprocessed Potato.”
+- **Claim supported:** The website presents the company as a wholesale provider of fresh and processed fruit and vegetable products for restaurants, hotels, industrial kitchens and catering. It says it delivers quantities from 500 kg and above, lists Plot PL 10800, Du Zawan, Jos, displays telephone 07064000770 and email contact@fruitsandveggiesng.com, and has a product page titled “Unprocessed Potato”.
 - **Evidence level:** Provider-reported business information; not independent verification of present stock, order volume, buyer demand or commercial performance.
-- **Confidence:** High that the website currently presents these claims; unknown for actual current operations and capacity.
+- **Confidence:** High that the website currently presents these claims; unknown for actual current operations, capacity and inventory.
 - **Verification method:** Public provider website reviewed on 20 November 2026.
-- **Limitations:** The site does not establish whether the company currently buys directly from farmers, uses outside aggregators, offers referral commissions or has seed inventory. Its website focuses on fresh/processed produce and does not describe a seed catalogue.
+- **Limitations:** The delivery statement does not establish whether 500 kg is a minimum customer order, minimum delivery quantity or supplier procurement volume. The site does not establish whether the company purchases directly from farmers, uses outside aggregators, offers referral commissions or has seed inventory.
 - **Related records:** OPP-0001, OPP-0004, ACT-0005, INV-0001, INV-0005, PRD-0006.
 
 ## EVD-0003 — National Agricultural Seed Policy for Nigeria 2022
 
 - **Source organisation:** National Agricultural Seeds Council / Federal Ministry of Agriculture and Rural Development, Nigeria.
 - **Source title:** National Agricultural Seed Policy for Nigeria 2022, December 2022.
-- **URL:** https://storage.googleapis.com/nasct1/nasc_pubs/Seed%20Policy%202023%20NASC.pdf
-- **Publication date:** December 2022.
+- **URLs:** https://seedcouncil.gov.ng/national-seed-policy-for-nigeria-2022/ and https://storage.googleapis.com/nasct1/nasc_pubs/Seed%20Policy%202023%20NASC.pdf
+- **Publication date:** December 2022; NASC announced publication on 15 June 2023.
 - **Observation/collection date:** 20 November 2026.
 - **Geography:** Nigeria.
-- **Claim supported:** The policy states that marketing of certified seeds is to be carried out by duly registered and licensed seed companies, community seed producers and seed dealers; it describes Seed Codex as an electronic verification/authentication label for passed seed lots and provides seed variety release/registration requirements. It also describes a role for seed extension, demonstrations, field days and private-sector promotion.
+- **Claim supported:** The policy identifies certified seed marketing by duly registered/licensed seed companies, community seed producers and seed dealers; it describes Seed Codex as an electronic verification/authentication label for passed seed lots and provides seed variety release/registration requirements. It also describes seed extension, demonstrations, field days and private-sector promotion.
 - **Evidence level:** Official policy document.
-- **Confidence:** High for what the published policy states; application to a particular business or proposed arrangement requires confirmation with NASC and current regulations.
-- **Verification method:** Official NASC-hosted policy PDF, particularly sections on certified seed production, distribution/marketing and extension/promotion.
+- **Confidence:** High for what the published policy states; application to a particular business or proposed arrangement requires confirmation with NASC and current laws/regulations.
+- **Verification method:** Official NASC-hosted policy PDF, including its distribution/marketing, quality assurance and extension/promotion sections.
 - **Limitations:** The policy is dated 2022. Confirm subsequent amendments, current licensing requirements and the facts of any particular seed lot before acting.
 - **Related records:** OPP-0001, ACT-0001, INV-0001.
 
-## EVD-0004 — NASC Annual Report 2009: historical seed enterprise profiles
+## EVD-0004 — NASC Annual Report 2009: historical Plateau seed-enterprise profiles
 
 - **Source organisation:** National Agricultural Seeds Council.
 - **Source title:** NASC Annual Report 2009.
@@ -75,26 +82,28 @@
 - **Publication date:** 2009.
 - **Observation/collection date:** 20 November 2026.
 - **Geography:** Nigeria; Plateau seed enterprises.
-- **Claim supported:** The report historically described Romarey Ventures Nig. Limited as marketing maize, rice, cowpea, sorghum and soybean seed. It described Savannah Seed Limited as a small-scale producer with maize hybrid/open-pollinated and rice seed, with seed processing on a custom-service basis.
+- **Claim supported:** The report historically described:
+  - **Romarey Ventures Nig. Limited**, No. 2 Gindiri Junction Road, Mangu, Plateau State, with maize, rice, cowpea, sorghum and soybean seed listed.
+  - **Savannah Seed Limited**, No. 7 Julius Bala Crescent, Old Legislative Quarters, Jos, Plateau State, as a small-scale producer of maize hybrids/open-pollinated maize and rice, with seed processing on a custom-service basis.
 - **Evidence level:** Official historical report.
-- **Confidence:** High for the historical report contents; very low for any assumption about current 2026 product range, capacity or stock.
-- **Verification method:** NASC-hosted historical annual report.
-- **Limitations:** The information is from 2009 and must not be treated as a current product catalogue or operational-status confirmation.
+- **Confidence:** High for the historical report contents; very low for any assumption about current 2026 product range, licence, capacity or stock.
+- **Verification method:** NASC-hosted annual report, table of small-scale seed enterprises and seed-company profiles.
+- **Limitations:** The information is from 2009. The historical report does not prove that either business remains active, has a current licence or carries the listed seed products today. These names were not among the six Plateau entities in the current directory excerpt retrieved on 20 November 2026; this is not proof that they have been removed or closed.
 - **Related records:** OPP-0001, INV-0001, PRD-0001 to PRD-0005.
 
 ## EVD-0005 — NASC North-Central zonal office and national contact
 
 - **Source organisation:** National Agricultural Seeds Council.
-- **Source title:** Our Offices / Who We Are.
-- **URLs:** https://seedcouncil.gov.ng/our-offices/ and https://seedcouncil.gov.ng/who-we-are/
-- **Publication date:** Not stated on the office page.
+- **Source title:** Our Offices / National Seed Policy contact information.
+- **URLs:** https://seedcouncil.gov.ng/our-offices/ and https://seedcouncil.gov.ng/national-seed-policy-for-nigeria-2022/
+- **Publication date:** Not stated on office listing; policy notice published 15 June 2023.
 - **Observation/collection date:** 20 November 2026.
 - **Geography:** North-Central Zone, Jos, Plateau State, Nigeria.
-- **Claim supported:** NASC lists its North-Central Zonal Office at Angwan Daba, Bukuru Bye Pass, Jos, Plateau State. Its official Who We Are page provides the national contact telephone +234 811 388 7697 and email info@seedcouncil.gov.ng.
+- **Claim supported:** NASC lists its North-Central Zonal Office at Angwan Daba, Bukuru Bye Pass, Jos, Plateau State. Its official policy page provides national contact telephone +234 811 388 7697 and email info@seedcouncil.gov.ng.
 - **Evidence level:** Official institutional contact information.
 - **Confidence:** High for the published office location and national contact details; confirm before travel or relying on office hours.
 - **Verification method:** NASC official website pages.
-- **Limitations:** The office page does not publish a dedicated North-Central office phone number. The national contact is the practical initial channel to request the Jos zonal office.
+- **Limitations:** The office page does not publish a dedicated North-Central office telephone number. The national contact is the practical initial channel to request the Jos zonal office.
 - **Related records:** ACT-0001, INV-0001.
 
 ## EVD-0006 — Secondary corporate-status signal for Zaron Seeds
