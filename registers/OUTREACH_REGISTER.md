@@ -60,3 +60,13 @@ This register is exclusively for the **Agricultural Ecosystem Intelligence** pro
 Their messages remain in their own Gmail threads and must be tracked in their respective project records. They have been removed from this agricultural register; no email was deleted or changed. Do not transfer their status or reply events into this project's action tracker. OUT-0009 to OUT-0012 are not reassigned in this project.
 
 Only agricultural-project enquiries are included in the ledger above. OUT-0013 is the Plateau Citizen to Government request concerning routing to agricultural departments/project contacts, so it remains in this register.
+
+
+## Google Sheets entry confirmation — 21 November 2026
+
+- **Workbook operation:** The user reports that the ChatGPT extension connected to the existing Google Sheet created and used the `Outreach_Register` tab after reviewing the existing workbook tabs and finding no suitable outreach register or existing `OUT-` records.
+- **Rows added:** Nine agricultural outreach records, OUT-0001 to OUT-0008 and OUT-0013. The extension reported zero existing rows updated and zero duplicates created, and reported saving and re-reading the updated range `Outreach_Register!A1:R10`.
+- **Recorded states:** Seven contacts awaiting reply/substantive reply; OUT-0007 (PLACOM) marked delivery failed due to NXDOMAIN; OUT-0013 (Citizen to Government Platform) marked automated acknowledgement received, substantive routing response pending.
+- **Project boundary:** Reelaay, micro1, Turing / Project Lazarus and Patronus AI were not added.
+- **Verification limitation:** The extension reported a successful save and read-back, but the original Gmail threads were not independently inspectable in that session. The corresponding source details remain marked as supplied/unverified in the spreadsheet notes. This register therefore records the workbook operation as user-reported, not as an independent Gmail audit.
+- **System boundary:** This was a manual extension-assisted spreadsheet update, not an automated two-way synchronisation or an approved canonical-system cutover. GitHub remains the project source of truth under the current pre-cutover governance.
