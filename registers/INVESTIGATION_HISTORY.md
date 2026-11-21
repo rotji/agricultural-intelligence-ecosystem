@@ -1,6 +1,6 @@
 # Investigation History
 
-**Last reviewed:** 20 November 2026  
+**Last reviewed:** 21 November 2026  
 **Status:** Public-source review has begun for the seed supplier investigation and fresh-produce wholesale lead. No direct supplier contact, current stock verification or completed transaction is recorded.
 
 ## INV-0001 — Plateau seed supplier verification
