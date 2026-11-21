@@ -1,6 +1,6 @@
 # Evidence Register
 
-**Last reviewed:** 20 November 2026  
+**Last reviewed:** 21 November 2026  
 **Purpose:** Index sources and evidence supporting product, market, producer, solution, opportunity and decision records.
 
 ## Evidence record template
@@ -147,6 +147,24 @@
 - **Limitations:** The survey is a wet-season assessment, not a complete 2026 production census; dry-season production assessment is separate. Fertiliser and grain release dates, locations, eligibility, prices and quantities available to particular buyers require later confirmation.
 - **Related records:** OPP-0002, OPP-0003, ACT-0002, ACT-0003.
 
+### Update — 21 November 2026: detailed 2026 wet-season APS findings
+
+The ABU/NAERLS release provides additional figures from the same survey:
+- National cereal output is projected at 29.39 million tonnes in 2026, up 1.84% from 28.86 million tonnes in 2025.
+- Thirteen of 17 assessed major crops are projected to record higher output.
+- Cowpea output is projected at 4.46 million tonnes; groundnut at 5.41 million tonnes.
+- Soybean output is projected to decline 2.65% to approximately 956,745 tonnes.
+- Sesame, cotton, plantain and banana are also projected to record gains.
+- North Central was reported as contributing the largest share of cereal, legume, root and tuber production.
+- Fish production reportedly increased 114.3% in Niger State; Gombe, Rivers and Kwara also recorded increases.
+- The survey identified 2,064 active extension agents, with an average of 4,982 farm families per agent.
+- It reported severe flooding in Niger, Jigawa, Yobe, Ogun, Osun, Enugu and Ebonyi; moderate flooding in Kaduna, Nasarawa and Benue; severe fall armyworm in Kano and Taraba; Tuta absoluta in Kano and Kaduna; cassava mosaic in Anambra; and stem borer in Katsina, Zamfara, Jigawa and Kogi. Livestock disease and uneven vaccination coverage were also noted.
+
+**Interpretation limits:** These are survey projections and reported conditions from fieldwork conducted 31 August–6 September 2026, not final full-year output or current farm-level observations. The national/zone-level figures do not establish production, pest incidence or extension coverage in any particular Plateau LGA. The soybean decline does not establish that seed quality caused the decline.
+
+- **Additional source detail:** https://abu.edu.ng/naerls-presents-2026-wet-season-agricultural-performance-survey-report-to-federal-government/
+- **Related records:** OPP-0001 (context only), OPP-0008 (extension-service discovery), PRD-0019 to PRD-0021 (proposed).
+
 ## EVD-0008 — October 2026 Nigerian CPI and state food inflation
 
 - **Source organisation:** National Bureau of Statistics (NBS); Voice of Nigeria (VON) reporting the NBS release.
@@ -260,6 +278,22 @@
 - **Limitations:** No named Plateau hatchery/feed seller, breed, vaccination schedule, delivery terms, feed formulation/brand, batch date or completed trade is attached to the summary value. Confirm directly before decision-making.
 - **Related records:** PRD-0008 and PRD-0009 (proposed).
 
+### Update — 21 November 2026: broader product coverage and source limitations
+
+The page retrieved on 21 November continued to display a price date of Friday, 20 November 2026. In addition to layer day-old chicks and broiler finisher feed, it displayed:
+- Broiler day-old chicks, aggregate estimate ₦186,250 per 100; state figures displayed on the same page include substantially higher values, so the aggregate and state figures require source clarification.
+- Table eggs: small ₦5,400, medium ₦5,650 and large ₦6,500 per crate of 30.
+- Fish meal: ₦48,000 per 25 kg bag.
+- Wheat offal: ₦23,000 per 50 kg bag.
+- Newcastle vaccine: ₦2,400 per 100-dose vial; Gumboro vaccine: ₦2,000 per 100-dose vial; PPR vaccine: ₦1,200 per dose.
+- The page also displays cattle, goats, rams, sheep and pigs, with estimates per head.
+
+**Evidence treatment:** These are platform-modelled estimates, not L1 completed transactions or L2 identifiable seller quotations. The page has no named supplier, brand, batch, grade, delivery terms or transaction record for these summary values. Some displayed state-level values are unusually far from the aggregate estimates; treat them as discovery signals only and verify directly before use.
+
+- **URL:** https://www.farmpaddy.com/markets
+- **Retrieval date:** 21 November 2026; page's displayed price date 20 November 2026.
+- **Related records:** PRD-0008, PRD-0009, PRD-0022 to PRD-0028 (proposed).
+
 ## EVD-0016 — Useagrios national crop-price estimates, 20 November 2026
 
 - **Source organisation:** Useagrios (price-information platform).
@@ -273,6 +307,30 @@
 - **Confidence:** Medium that the figures were displayed on the stated date; low for using them as a local transaction benchmark without the underlying market/source record.
 - **Limitations:** National averages conceal geography, grade and market-level differences. The platform states that some prices are estimates. Do not compare them directly with local quotations until product definitions, units, collection dates and market levels match.
 - **Related records:** PRD-0013 to PRD-0015 (proposed).
+
+### Update — 21 November 2026: new national and Jos market snapshots
+
+Useagrios displayed national average estimates on 21 November 2026:
+- Maize ₦74,346 per 50 kg bag.
+- Rice ₦79,643 per 50 kg bag.
+- Tomato ₦25,129 per crate.
+- Cassava ₦46,586 per 100 kg bag.
+- Yam ₦120,688 per 100 kg bag.
+- Beans ₦63,988 per 50 kg bag.
+- Groundnut ₦69,036 per 50 kg bag.
+- Soybean ₦121,642 per 50 kg bag.
+- Sorghum ₦13,348 per 50 kg bag.
+- Sesame ₦89,794 per 50 kg bag.
+- Cocoa ₦956,046 per tonne.
+- Palm oil ₦55,378 per 25-litre can.
+
+The separate Terminus Market, Jos page displayed 20 November 2026 estimates of maize ₦73,823/50 kg, rice ₦78,510/50 kg, tomato ₦24,539/crate and cassava ₦43,795/100 kg. A maize detail page refreshed on 21 November displayed a different Terminus estimate of ₦73,609/50 kg. Preserve these as separate dated/page observations; do not combine or treat the difference as a verified market movement.
+
+**Evidence treatment:** The platform explicitly labels most values as modelled estimates. These are not L1 transactions or L2 identifiable quotations. The national averages and Jos market estimates are contextual comparison signals only. No direct seller, grade, quantity offered, delivery term or completed transaction is attached.
+
+- **URLs:** https://useagrios.com/prices/ ; https://useagrios.com/markets/terminus-market-jos/ ; https://useagrios.com/prices/maize/
+- **Retrieval date:** 21 November 2026.
+- **Related records:** PRD-0013 to PRD-0015, PRD-0019 and PRD-0021 (proposed).
 
 ## EVD-0017 — Nigeria agricultural exports in Q2 2026
 
@@ -288,3 +346,26 @@
 - **Confidence:** Medium-high for the reported values; use underlying NBS tables for full audit and product-code verification.
 - **Limitations:** Aggregate export value does not prove current buyer demand accessible to an individual, farmgate prices, exporter margins, quality requirements or Plateau production availability.
 - **Related records:** PRD-0016 to PRD-0018 (proposed).
+
+
+## EVD-0018 — AfDB February 2026 implementation progress report for Plateau Potato Value Chain Support Project
+
+- **Source organisation:** African Development Bank Group (AfDB).
+- **Source title:** Implementation Progress and Results Report (IPR), Plateau State Potato Value Chain Support Project, field mission 8.
+- **URL:** https://www.afdb.org/sites/default/files/documents/projects-and-operations/nigeria_-_plateau_state_potato_value_chain_support_project_ps-pvcp_-_ipr_february_2026.pdf
+- **Report date:** 6 March 2026; mission dates 2–5 February 2026; AfDB project page lists the report on 9 April 2026.
+- **Observation/retrieval date:** 21 November 2026.
+- **Geography:** Plateau State; project assets and locations include Bokkos, Mangu, Pankshin, Jos North, Riyom and Jos South, with processing-centre and tissue-culture infrastructure also discussed.
+- **Claims supported as recorded at the February 2026 supervision mission:**
+  - Nine diffuse-light stores were completed and handed over to LGAs/communities; six were reported as being utilised: Bokkos, Mangu, Pankshin, Jos North, Riyom and Jos South.
+  - Nine community markets were completed and handed over; six were reported as being utilised, with the same six locations named.
+  - Nine processing centres were reported as constructed, but their buildings had been affected by storms and remedial works were ongoing.
+  - The tissue-culture laboratory construction was reported as completed, but the building had also been affected by storms and remedial works were ongoing.
+  - Seven of 15 market-information systems were reported as developed, with the activity still in process.
+  - The report recorded 119 ADP extension agents trained, 3,667 farm advisory services delivered on potato blight, fertiliser application, storage and processing, and 3,907 potato farmers linked to research institutions including NRCRI Kuru, CIP and GIZ.
+  - The project report recorded 69.53% disbursement at the supervision date and a 30 June 2026 disbursement deadline; this is historical project-finance context, not evidence of current funds or current facility operation.
+- **Evidence level:** Official development-bank implementation/supervision report.
+- **Confidence:** High that the report records these figures and conditions as of its February 2026 mission; unknown for the status of any facility in November 2026.
+- **Limitations and reconciliation questions:** The July 2026 Plateau State announcement describes a commissioned tissue-culture laboratory and three potato processing plants in Mangu, Bokkos and Barkin Ladi. The AfDB report records nine processing centres and storm damage/remedial works as of February 2026. The relationship between “three plants” and “nine centres”, and whether repairs were completed between February and July, is not established. The six utilised stores/markets are a dated February snapshot, not current utilisation.
+- **Related records:** OPP-0007, ACT-0008, INV-0008, OPP-0008, INV-0009.
+
