@@ -4,6 +4,7 @@ Store complete daily intelligence reports here as dated Markdown files, for exam
 
 - BRF-2026-11-19.md
 - BRF-2026-11-20.md
+- BRF-2026-11-21.md
 
 Preserve each report as issued, with its research cutoff, source citations, evidence qualifications, coverage gaps and original findings.
 
