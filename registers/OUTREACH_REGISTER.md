@@ -27,15 +27,10 @@
 | OUT-0006 | Danny Cool Associates — dannycoolassociates@yahoo.com | Potato farmers, cooperatives and commercial production | 20 Nov 2026 | Awaiting reply | Wait |
 | OUT-0007 | PLACOM — info@placom.ng | Commodity market, producers, buyers, storage and services | 20 Nov 2026 | Delivery failed — domain not found (NXDOMAIN) | Do not resend; independently verify a current official address first |
 | OUT-0008 | Plateau State Ministry/Commerce contact — commerceandindustry@yahoo.com | Plateau agricultural stakeholder and market information | 20 Nov 2026 | Sent; awaiting reply | Wait |
-| OUT-0009 | Reelaay — hello@reelaay.com | Purchase-order financing for agricultural commodity transactions | 20 Nov 2026 | Sent; awaiting reply | Wait |
-| OUT-0010 | micro1 — support@micro1.ai | International eligibility, referral terms, payout and Nigeria access | 21 Nov 2026 | Automated acknowledgement received; human response pending | Continue in existing thread; no new email |
-| OUT-0011 | Turing / Project Lazarus — partnerships@turing.com | Independent international referral/sourcing partnership | 21 Nov 2026 | Sent; awaiting reply | Wait |
-| OUT-0012 | Patronus AI — data@patronus.ai | Independent international data referral partnership | 21 Nov 2026 | Sent; awaiting reply | Wait |
 | OUT-0013 | Plateau State Citizen to Government Platform — egov@citigov.ng | Route request to relevant departments/project coordination and stakeholder contacts | 20 Nov 2026 (request acknowledged 21 Nov) | Automated receipt acknowledgement; substantive routing response pending | Wait in existing thread; no repeat request |
 
 ## Reply events — 21 November 2026
 
-- **OUT-0010 / micro1:** An automated assistant acknowledgement from support+zara@micro1.ai says a team member will assist soon. This is receipt confirmation only, not an answer on eligibility, referral rewards or payout terms.
 - **OUT-0013 / Citizen to Government Platform:** Automated E-Participation Team acknowledgement confirms receipt and says a team member will respond. This is not yet a substantive referral to a department or project office.
 - **OUT-0007 / PLACOM:** Gmail delivery failure states the placom.ng domain could not be found (NXDOMAIN). The message was not delivered. Do not retry this address until a verified replacement is found.
 
@@ -49,6 +44,19 @@
 ## Update history
 
 ### 21 November 2026
-- Created this register after Gmail review exposed multiple already-sent agricultural enquiries, two automated acknowledgements and one delivery failure.
+- Created this register after Gmail review exposed multiple already-sent agricultural enquiries, one automated acknowledgement and one delivery failure.
 - Confirmed the potato project email was already sent on 20 November 2026. The suggested second email in the daily brief must not be sent.
 - No new email was sent during this correction.
+
+
+## Project-boundary correction — 21 November 2026
+
+This register is exclusively for the **Agricultural Ecosystem Intelligence** project. The following contacts belong to separate projects and must not be treated as agricultural outreach, agricultural actions or agricultural follow-ups:
+- Reelaay — purchase-order financing enquiry.
+- micro1 — company data partnerships/referral programme.
+- Turing / Project Lazarus — data/referral partnership.
+- Patronus AI — data partnerships/referral programme.
+
+Their messages remain in their own Gmail threads and must be tracked in their respective project records. They have been removed from this agricultural register; no email was deleted or changed. Do not transfer their status or reply events into this project's action tracker. OUT-0009 to OUT-0012 are not reassigned in this project.
+
+Only agricultural-project enquiries are included in the ledger above. OUT-0013 is the Plateau Citizen to Government request concerning routing to agricultural departments/project contacts, so it remains in this register.
