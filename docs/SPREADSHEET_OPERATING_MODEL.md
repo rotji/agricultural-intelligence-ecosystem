@@ -48,6 +48,7 @@ Dataset ownership, sync direction, conflict resolution, audit logging and the cu
 | Investigation_History | Questions, sources consulted, findings and unresolved issues |
 | Evidence_Register | Source provenance, claims supported, limitations and related IDs |
 | Decision_Log | Actual decisions, rationale, alternatives and outcomes |
+| Outreach_Register | Project-specific email enquiries, sent dates, replies, acknowledgements, bounces and next handling; one row per conversation |
 | Geography | Nationwide state coverage and Plateau's 17 LGAs |
 | Start_Here | User guidance and system boundaries |
 | Lists | Dropdown values for data consistency |
@@ -104,7 +105,11 @@ Only mark Completed when completion evidence is recorded. Use Unassigned or Not 
 
 The current ChatGPT Google Drive/Sheets connector is not available in this environment, so the file cannot be placed directly into the user's Drive or linked to a native Sheet from this setup session.
 
-## 7. Synchronisation rules until cutover
+## 7. Outreach tracking
+
+The workbook includes an `Outreach_Register` tab for agricultural-project correspondence only. Keep unrelated project contacts in their own project registers. Before sending an email, search the project register and Gmail Sent/Inbox. If an initial enquiry is awaiting a substantive reply, do not send another initial email; wait and continue in the existing thread when a reply arrives. Automated acknowledgements are not substantive replies. Record delivery failures and verify a corrected official address before retrying. See [Contact and Outreach Control](CONTACT_AND_OUTREACH_CONTROL.md).
+
+## 8. Synchronisation rules until cutover
 
 - GitHub remains canonical. Put proposed spreadsheet edits into Change_Queue with stable IDs and evidence.
 - Reconcile approved changes to GitHub explicitly and record confirmed commits in Sync_Log.
@@ -113,7 +118,7 @@ The current ChatGPT Google Drive/Sheets connector is not available in this envir
 - Follow SYNCHRONIZATION_GOVERNANCE.md for target dataset owners, one-way snapshot rules and the cutover gate.
 - Keep public contact details distinct from private personal data.
 
-## 8. Future integration gate
+## 9. Future integration gate
 
 Before enabling automated Google Sheets updates:
 1. Confirm the connector can read the correct Google account and target spreadsheet.
