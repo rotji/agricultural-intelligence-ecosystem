@@ -79,3 +79,22 @@ Never mark completed based only on a proposed action or an attempted enquiry. Re
 - **Expected result:** A dated facility-by-facility status for the tissue-culture lab, processing plants, storage and community-market components, including operator/access and actual operating capacity where available.
 - **Starting evidence:** Plateau State Government's project announcement and later media reporting use differing descriptions of processing-plant completion/planning. [EVD-0009]
 - **Do not:** Advertise capacity, offer supply or propose an intermediary service until operating status and access are verified.
+
+
+## Update — 21 November 2026
+
+| ID | Related record | Action | Status | Owner | Target/review | Dependency |
+|---|---|---|---|---|---|---|
+| ACT-0008 | OPP-0007 / INV-0008 | Contact the published Potato Value Chain Management Team channel to confirm the current coordinator and obtain facility-by-facility status/access information | Not started | Unassigned | 23 Nov 2026 | Historical contact must be confirmed as current; response from PVCMT/project office |
+| ACT-0009 | INV-0009 / PRD-0029 | Review FAO/FMLD aquaculture and livestock initiatives for named implementation partners, eligibility and current Plateau/Nigeria participation routes | Not started | Unassigned | 23 Nov 2026 | Primary programme documentation and named implementing contacts |
+
+### ACT-0008 — Potato project current-contact and facility-status enquiry
+- **Exact initial channel:** plateaustatepotato@gmail.com, published in a historical AfDB procurement notice for the Plateau State Potato Value Chain Support Project. The notice identifies PVCMT, c/o Plateau State ADP, PMB 2119 Dogon Dutse, Jos. [EVD-0020]
+- **Expected result:** Confirmation whether the address is still monitored; current project coordinator and official contact; status of the tissue-culture laboratory and each processing centre; access, operating capacity, services, fees and procurement/off-take process where shareable.
+- **Completion evidence:** Dated written reply from an identifiable project official or an official current contact/notice. A sent email alone is an attempted action, not completion.
+- **Do not:** Travel, pay fees, purchase potatoes/equipment or pitch an unvalidated service based only on this historical contact.
+
+### ACT-0009 — Aquaculture and livestock programme route discovery
+- **Expected result:** Identify whether FAO's catfish-sector roundtable/FISH4ACP activity, Green Jobs for Youth project or FMLD animal-health initiatives publish open partner, supplier, training or participation routes.
+- **Starting evidence:** FAO Nigeria reports a catfish production scaling roundtable (11 Nov) and KOICA-funded Green Jobs project launch (18 Nov); FMLD reports avian-influenza decision-support work and Nigeria–Tunisia livestock cooperation discussions. [EVD-0021; EVD-0022]
+- **Do not:** Assume that an announcement is an open grant, job, agent programme or procurement opportunity.
