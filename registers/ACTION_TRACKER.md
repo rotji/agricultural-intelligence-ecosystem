@@ -1,6 +1,6 @@
 # Action Tracker
 
-**Last reviewed:** 20 November 2026  
+**Last reviewed:** 21 November 2026  
 **Status:** Initial action plan updated after public-source research. No direct supplier contact or transaction is recorded as completed.
 
 ## Active actions
