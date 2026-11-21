@@ -128,3 +128,17 @@ Before enabling automated Google Sheets updates:
 5. Define conflict resolution and append-only history.
 6. Test with a non-critical sample row and verify both sides.
 7. Only then update the daily automation to use the Sheet.
+
+
+## 10. Operational update — 21 November 2026
+
+The user reports that the existing Google Sheet was updated through the ChatGPT extension:
+
+- The extension reviewed the existing workbook tabs and found no suitable outreach register or existing `OUT-` records.
+- It created and used `Outreach_Register`, added nine agricultural records (OUT-0001 to OUT-0008 and OUT-0013), and reported zero duplicate creations and zero existing-row updates.
+- It reported saving and re-reading `Outreach_Register!A1:R10`.
+- The reported states are seven awaiting reply/substantive reply, one delivery failure (PLACOM / NXDOMAIN), and one automated acknowledgement with substantive routing response pending (Citizen to Government Platform).
+- It reported excluding Reelaay, micro1, Turing / Project Lazarus and Patronus AI.
+- The extension could not independently inspect the original Gmail threads in that session; the source details are therefore marked supplied/unverified in the spreadsheet notes.
+
+**Interpretation:** The Google Sheet is now a user-operated working companion containing the outreach records. This does not establish direct ChatGPT connector access, automated synchronisation, or completion of the formal cutover gate. GitHub remains canonical. The reported write/read-back is attributed to the extension's response and has not been independently repeated through a separate Sheet connector in this session.
