@@ -1,0 +1,54 @@
+# Outreach Register
+
+**Last reviewed:** 21 November 2026  
+**Purpose:** Prevent duplicate or premature contact, maintain one record per organisation/contact thread, and coordinate replies and follow-ups.  
+**Source:** Gmail sent-folder and inbox review on 21 November 2026. Dates below are Africa/Lagos local dates; Gmail timestamps were converted from UTC.
+
+## Mandatory contact-control rule
+
+1. **One organisation/contact + one subject = one active conversation thread.** Before any new email, search this register and Gmail Sent/Inbox for the organisation, address, domain and subject.
+2. If an email has already been sent and no substantive reply has arrived, **do not send another initial email**. Wait. Do not create a second subject/thread to repeat the same questions.
+3. When a reply arrives, read the complete thread and prepare a reply **inside that existing thread**. Do not send a new email unless there is a clearly different purpose and the existing conversation makes a separate thread appropriate.
+4. Automated acknowledgements are not substantive answers. Keep the thread waiting for the promised human response.
+5. Delivery failures are recorded as failed. Do not retry the same address until the address is independently corrected or verified.
+6. Follow-up is allowed only after a deliberate waiting interval and review of the existing thread. Record the reason, proposed wording and approval before sending. No automatic follow-up.
+7. Record every attempt, reply, bounce, next step and evidence. Never invent a sent date, reply or outcome.
+8. The Gmail thread is the conversation source; this Markdown register is the project-level index. Do not publish message bodies or private mailbox identifiers in this public repository.
+
+## Current outreach ledger
+
+| OUT ID | Organisation / contact | Purpose | Sent (Lagos date) | Current state | Next handling |
+|---|---|---|---|---|---|
+| OUT-0001 | Plateau State Potato Value Chain Support Project / PVCMT — plateaustatepotato@gmail.com | Facility operation, management, capacity, access and project participants | 20 Nov 2026 | Awaiting substantive reply | Wait in existing thread; no second email |
+| OUT-0002 | Fruits and Veggies Global — contact@fruitsandveggiesng.com | Potato seed role, sourcing, requirements and intermediary participation | 20 Nov 2026 | Awaiting reply | Wait; no duplicate enquiry |
+| OUT-0003 | National Root Crops Research Institute — info@nrcri.gov.ng | Potato varieties, seed systems, research and Plateau links | 20 Nov 2026 | Awaiting reply | Wait |
+| OUT-0004 | International Potato Center — cip-nbo@cgiar.org | Nigeria potato projects, partners, technologies and research | 20 Nov 2026 | Awaiting reply | Wait |
+| OUT-0005 | GIZ SEDIN — sedin@giz.de | Previous potato value-chain work, stakeholder network and reports | 20 Nov 2026 | Awaiting reply | Wait |
+| OUT-0006 | Danny Cool Associates — dannycoolassociates@yahoo.com | Potato farmers, cooperatives and commercial production | 20 Nov 2026 | Awaiting reply | Wait |
+| OUT-0007 | PLACOM — info@placom.ng | Commodity market, producers, buyers, storage and services | 20 Nov 2026 | Delivery failed — domain not found (NXDOMAIN) | Do not resend; independently verify a current official address first |
+| OUT-0008 | Plateau State Ministry/Commerce contact — commerceandindustry@yahoo.com | Plateau agricultural stakeholder and market information | 20 Nov 2026 | Sent; awaiting reply | Wait |
+| OUT-0009 | Reelaay — hello@reelaay.com | Purchase-order financing for agricultural commodity transactions | 20 Nov 2026 | Sent; awaiting reply | Wait |
+| OUT-0010 | micro1 — support@micro1.ai | International eligibility, referral terms, payout and Nigeria access | 21 Nov 2026 | Automated acknowledgement received; human response pending | Continue in existing thread; no new email |
+| OUT-0011 | Turing / Project Lazarus — partnerships@turing.com | Independent international referral/sourcing partnership | 21 Nov 2026 | Sent; awaiting reply | Wait |
+| OUT-0012 | Patronus AI — data@patronus.ai | Independent international data referral partnership | 21 Nov 2026 | Sent; awaiting reply | Wait |
+| OUT-0013 | Plateau State Citizen to Government Platform — egov@citigov.ng | Route request to relevant departments/project coordination and stakeholder contacts | 20 Nov 2026 (request acknowledged 21 Nov) | Automated receipt acknowledgement; substantive routing response pending | Wait in existing thread; no repeat request |
+
+## Reply events — 21 November 2026
+
+- **OUT-0010 / micro1:** An automated assistant acknowledgement from support+zara@micro1.ai says a team member will assist soon. This is receipt confirmation only, not an answer on eligibility, referral rewards or payout terms.
+- **OUT-0013 / Citizen to Government Platform:** Automated E-Participation Team acknowledgement confirms receipt and says a team member will respond. This is not yet a substantive referral to a department or project office.
+- **OUT-0007 / PLACOM:** Gmail delivery failure states the placom.ng domain could not be found (NXDOMAIN). The message was not delivered. Do not retry this address until a verified replacement is found.
+
+## Review rules and cadence
+
+- Daily: check for replies, bounces and changes in existing threads before proposing any outreach.
+- Weekly: review waiting threads, identify whether any follow-up is justified, and approve follow-up individually.
+- Before every send: search the organisation, email address/domain and topic in this register and Gmail; check whether a thread already exists.
+- Follow-up waiting period: not fixed globally. Set a reasonable period according to the recipient and urgency; record the reason and date. Never send a duplicate initial enquiry simply because a reply has not arrived.
+
+## Update history
+
+### 21 November 2026
+- Created this register after Gmail review exposed multiple already-sent agricultural enquiries, two automated acknowledgements and one delivery failure.
+- Confirmed the potato project email was already sent on 20 November 2026. The suggested second email in the daily brief must not be sent.
+- No new email was sent during this correction.
