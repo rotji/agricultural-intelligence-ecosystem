@@ -369,3 +369,81 @@ The separate Terminus Market, Jos page displayed 20 November 2026 estimates of m
 - **Limitations and reconciliation questions:** The July 2026 Plateau State announcement describes a commissioned tissue-culture laboratory and three potato processing plants in Mangu, Bokkos and Barkin Ladi. The AfDB report records nine processing centres and storm damage/remedial works as of February 2026. The relationship between “three plants” and “nine centres”, and whether repairs were completed between February and July, is not established. The six utilised stores/markets are a dated February snapshot, not current utilisation.
 - **Related records:** OPP-0007, ACT-0008, INV-0008, OPP-0008, INV-0009.
 
+
+
+## EVD-0018 — NAERLS 2026 wet-season Agricultural Performance Survey findings
+
+- **Source organisation:** National Agricultural Extension and Research Liaison Services (NAERLS), Ahmadu Bello University.
+- **Source title:** NAERLS presents 2026 Wet Season Agricultural Performance Survey report to Federal Government.
+- **URL:** https://abu.edu.ng/naerls-presents-2026-wet-season-agricultural-performance-survey-report-to-federal-government/
+- **Publication date:** 19 November 2026; presentation to Federal Government on 18 November 2026.
+- **Observation/collection date:** 21 November 2026 (reviewed for this brief).
+- **Geography:** Nigeria, all 36 states and FCT; national and zonal production indicators.
+- **Products/forms:** Cereals, maize, rice, cowpea, groundnut, sesame, cotton, plantain, banana, soybean, fish production and livestock health indicators.
+- **Claim supported:** NAERLS reported expected cereal output of 29.39 million tonnes (+1.84%); 13 of 17 assessed major crops projected higher output; cowpea 4.46 million tonnes; groundnut 5.41 million tonnes; soybean about 956,745 tonnes with a projected 2.65% decline; gains expected for sesame, cotton, plantain and banana. It also reported fish production growth of 114.3% in Niger State and increases in Gombe, Rivers and Kwara. Seven states reported severe flooding; severe fall armyworm in Kano and Taraba; Tuta absoluta in Kano and Kaduna; cassava mosaic in Anambra; livestock vaccination gaps and disease reports in some states.
+- **Evidence level:** L4 source-reported national wet-season survey estimates and risk signals; the institutional publication is primary for what NAERLS reported, but figures are not completed transactions or final full-year census results.
+- **Confidence:** High that NAERLS published these survey findings; medium for the estimates as an outlook; no Plateau LGA-level production quantities established by this source.
+- **Verification method:** Official ABU/NAERLS publication reviewed 21 November 2026.
+- **Limitations:** Survey fieldwork occurred 31 August–6 September 2026. These are wet-season projections/estimates; a separate dry-season assessment and final production reconciliation may change values. State-level output and marketable surplus are not supplied for every product in the public article.
+- **Related records:** PRD-0019, PRD-0020, PRD-0021, PRD-0030, PRD-0031; ACT-0009; INV-0009.
+
+## EVD-0019 — Nigerian commodity price platforms, observation 21 November 2026
+
+- **Source organisations/platforms:** Useagrios; ROL Global Trade & Logistics; Commodity Nigeria; Farmgate.
+- **URLs:** https://useagrios.com/prices/ ; https://www.rolglobaltrade.com/commodity-prices.php ; https://commodity.ng/ ; https://farmgate.ng/
+- **Publication/observation date:** 21 November 2026 for pages displaying dated updates; Farmgate latest close displayed as 20 November 2026.
+- **Geography:** National aggregates, selected Nigerian markets and northern pilot corridor; a Commodity Nigeria Plateau page also displays statewide commodity context.
+- **Products/forms:** Maize, rice/paddy rice, soybean, sorghum, millet, cassava, yam, beans, tomato, pepper, onion, cocoa, plantain, groundnut, palm oil, sesame, cashew; fresh/dried catfish, tilapia, live chicken, goat, pig, cattle and eggs.
+- **Claim supported:** Useagrios displayed national averages: maize ₦74,346/50 kg; rice ₦79,643/50 kg; tomato ₦25,129/crate; cassava ₦46,586/100 kg; yam ₦120,688/100 kg; beans ₦63,988/50 kg; cocoa ₦956,046/tonne; groundnut ₦69,036/50 kg; soybean ₦121,642/50 kg; sesame ₦89,794/50 kg. ROL displayed source-dated reference prices including maize ₦660,000/tonne, paddy rice ₦1,160,000/tonne, soybean ₦800,000/tonne, sorghum ₦700,000/tonne and fresh catfish ₦4,000/kg; it explicitly says some rows retain older source dates and mixes NCX with secondary fallbacks. Farmgate described weekly field-agent collection and showed 20 November close values, but its indexed output contains an undefined bag unit for rice and cannot be safely normalised. Commodity Nigeria showed rapidly changing grain prices and a Plateau page with indicative commodity averages, but the page did not provide enough visible collection/grade metadata for transaction use.
+- **Evidence level:** L3/L4 platform-reported estimates and reference prices; no direct identifiable seller quote or L1 transaction was verified in this review.
+- **Confidence:** High that the pages displayed these values; low/medium for market representativeness and comparability.
+- **Verification method:** Public platform pages reviewed 21 November 2026; source-date and unit caveats retained.
+- **Limitations:** Different pages report conflicting maize/rice/soybean values and different units, market bases and collection dates. Do not average or merge them. Asking/reference/estimated prices are not completed transactions. Plateau price rows do not identify each LGA, grade, volume, buyer/seller or delivery terms. No current L1 or new L2 observation established.
+- **Related records:** PRD-0013, PRD-0014, PRD-0015, PRD-0019, PRD-0021, PRD-0029; OPP-0002, OPP-0003, OPP-0008; INV-0009.
+
+## EVD-0020 — Plateau Potato Value Chain Support Project: 2026 update and historical PIU contact route
+
+- **Source organisations:** Plateau State Government; African Development Bank (AfDB); historical project procurement notice.
+- **Source titles:** “Governor Mutfwang Commissions Potato Value Chain Project”; AfDB PS-PVCP Implementation Progress and Results Report, February 2026; historical project notice identifying Potato Value Chain Management Team (PVCMT).
+- **URLs:** https://www.plateaustate.gov.ng/news/6a527afff38afca39b3d7b38/ ; https://www.afdb.org/sites/default/files/documents/projects-and-operations/nigeria_-_plateau_state_potato_value_chain_support_project_ps-pvcp_-_ipr_february_2026.pdf ; https://www.afdb.org/fileadmin/uploads/afdb/Documents/Procurement/Project-related-Procurement/GPN_-_Nigeria_-_Plateau_State_Potato_Value_Chain_Support_Project.pdf
+- **Publication dates:** Plateau State Government, 12 July 2026; AfDB IPR, February 2026 (project page lists the report on 9 April 2026); historical procurement notice approximately 2018.
+- **Observation/collection date:** 21 November 2026.
+- **Geography:** Mangu, Bokkos and Barkin Ladi LGAs, Plateau State, Nigeria; project coordination office in Jos.
+- **Claim supported:** The state government says the project commissioned a tissue-culture laboratory in Mangu and established three potato processing plants across Mangu, Bokkos and Barkin Ladi, plus nine community markets, nine diffuse-light stores, roads, water structures and farmer support. AfDB continues to list project P-NG-A00-008 as ongoing and lists a February 2026 implementation progress report. Historical project procurement material identifies the Potato Value Chain Management Team (PVCMT), c/o Plateau State ADP, PMB 2119 Dogon Dutse, Jos, and published plateaustatepotato@gmail.com as a project contact.
+- **Evidence level:** Official state project announcement and AfDB project/implementation reporting; historical contact is an official procurement-document lead but its current validity is unverified.
+- **Confidence:** High that the state made the 2026 commissioning/establishment announcement and AfDB lists the project as ongoing; unknown for current facility uptime, equipment, actual throughput, management, access rules, buyer/offtake and whether the historical email is still monitored.
+- **Verification method:** Official Plateau State and AfDB pages plus historic AfDB procurement notice reviewed 21 November 2026.
+- **Limitations:** Announcement and project status do not establish commercial operation or open access. The email/contact details are historical; ask for the current project coordinator before relying on them. Do not travel or spend money before confirmation.
+- **Related records:** OPP-0007, ACT-0008, INV-0008, PRD-0006.
+
+## EVD-0021 — Federal/FAO avian-influenza surveillance and livestock partnership signals
+
+- **Source organisation:** Federal Ministry of Livestock Development (FMLD).
+- **Source titles:** “FG, FAO, Stakeholders Strengthen Collaboration to Contain Avian Influenza in Nigeria”; “FG, Tunisia to Deepen Bilateral Cooperation, Explore Investment Opportunities in Livestock Sector”.
+- **URLs:** https://www.fmld.gov.ng/news-details/237 ; https://www.fmld.gov.ng/news-details/239
+- **Publication dates:** 10 November 2026 and 19 November 2026.
+- **Observation/collection date:** 21 November 2026.
+- **Geography:** Nigeria; avian-influenza pilot locations named as Kano and Lagos; bilateral partnership discussions at federal level.
+- **Products/value chain:** Poultry and animal health surveillance; feed and fodder; meat processing; livestock technology transfer and investment.
+- **Claim supported:** FMLD says the Federal Government and FAO are deploying an Avian Influenza Decision Support Tool under the ELEVATE Animal Mobility Intelligence Framework, integrating animal mobility, community reports, migratory bird flyways, market hotspots and risk scenarios; Kano and Lagos were selected as pilots. FMLD also reported Nigeria–Tunisia discussions covering animal feed production, meat processing, technology transfer and livestock investment, with a proposed joint technical working group.
+- **Evidence level:** L4 official institutional announcement of a planned/deploying surveillance initiative and proposed bilateral cooperation; not proof of operational system performance or an open commercial tender/partnership.
+- **Confidence:** High for what the Ministry announced; low for accessible participation, funding, procurement, deployment coverage or Plateau relevance.
+- **Verification method:** FMLD official news pages reviewed 21 November 2026.
+- **Limitations:** Pilot locations named are Kano and Lagos, not Plateau. Partnership discussions do not establish open applications, contracts or individual agent opportunities. Disease information must be confirmed with veterinary authorities before action.
+- **Related records:** PRD-0026, PRD-0027, PRD-0028, ACT-0009, INV-0009.
+
+## EVD-0022 — FAO Nigeria catfish production and Green Jobs programme signals
+
+- **Source organisation:** Food and Agriculture Organization of the United Nations (FAO), Nigeria.
+- **Source titles:** “Nigeria calls for investment and stronger partnerships to scale sustainable catfish production”; “Nigeria, FAO launch KOICA-funded Green Jobs for Youth Project”.
+- **URL:** https://www.fao.org/nigeria/news/detail/en
+- **Publication dates:** 11 November 2026 (catfish roundtable); 18 November 2026 (Green Jobs project launch).
+- **Observation/collection date:** 21 November 2026.
+- **Geography:** Nigeria; Green Jobs launch reported in Lafia, Nasarawa State; catfish sector roundtable national.
+- **Products/value chain:** Farmed catfish, fingerlings, feed, aquaculture inputs, processing and marketing; youth/women agrifood employment and entrepreneurship.
+- **Claim supported:** FAO reports a high-level roundtable bringing together government, development partners, financial institutions, private-sector actors, farmers and processors to identify pathways for scaling sustainable catfish production, building on FISH4ACP achievements. FAO also reports launch of a KOICA-funded Green Jobs for Youth project involving Nigeria, Liberia and Sierra Leone to expand sustainable employment and entrepreneurship for young people and women in climate-resilient agrifood systems.
+- **Evidence level:** L4 institutional event/programme announcements.
+- **Confidence:** High that FAO announced the events; low for funding access, eligibility, procurement, local Plateau implementation or individual participation routes.
+- **Verification method:** FAO Nigeria news index reviewed 21 November 2026.
+- **Limitations:** No open application, grant amount, local partner list or procurement notice was established in this review. Do not assume an individual can join or receive funding.
+- **Related records:** PRD-0029, ACT-0009, INV-0009.
