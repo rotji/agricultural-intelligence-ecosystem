@@ -178,3 +178,14 @@ Add a dated update under the relevant investigation whenever a source is consult
 - **Conclusion:** Sector-level institutional interest is established; no individual commercial opportunity or funding access is validated. Keep catfish/farmed fish as a product discovery, not a presumed income opportunity.
 - **Next step:** Locate primary project implementation/call documentation and identify existing local providers before proposing any service or build.
 - **Review:** 23 November 2026.
+
+
+## INV-0008 — Update — 21 November 2026: outreach sent; response pending
+
+- **Related opportunity/action/outreach:** OPP-0007 / ACT-0008 / OUT-0001.
+- **Contact attempt:** One enquiry was sent from the user's Gmail account to plateaustatepotato@gmail.com on 20 November 2026. The complete message asks about the current project coordinator, tissue-culture laboratory, processing plants, storage, markets, farmer access, participating organisations and legitimate participation routes.
+- **Response status:** No reply from the project contact was present in the reviewed Gmail thread as of 21 November 2026. The email is confirmed in Sent. This is not evidence that the address is monitored or that facilities are operational.
+- **Control:** Do not send another initial email to this address while the first message remains unanswered. If a response arrives, continue in the same thread. See OUT-0001 and docs/CONTACT_AND_OUTREACH_CONTROL.md.
+- **Next step:** Wait for a reply and check the existing thread during the normal inbox review. If no response after a reasonable waiting period, reassess whether an alternative official contact is independently verifiable before considering any follow-up.
+- **Status:** In progress — awaiting reply; facility operation/access unresolved.
+- **Review:** 23 November 2026.
