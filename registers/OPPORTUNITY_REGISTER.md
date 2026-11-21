@@ -1,6 +1,6 @@
 # Opportunity Register
 
-**Last reviewed:** 20 November 2026  
+**Last reviewed:** 21 November 2026  
 **Register status:** Initial records seeded from the 19 November daily brief; one fresh-produce sourcing hypothesis added after public-source review. None of these entries is a validated commercial opportunity.
 
 ## Register index
