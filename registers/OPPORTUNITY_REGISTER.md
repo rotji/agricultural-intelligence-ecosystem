@@ -177,3 +177,18 @@ Use the continuity governance and tracking guide in docs/. Preserve record histo
 - **Capital level:** Infrastructure itself is Level 3–4; lower-capital services such as producer information, quality coordination or buyer linkage are hypotheses only and require an authorised partner route.
 - **Review date:** 23 November 2026.
 - **Revisit/closure condition:** Elevate a specific opportunity only after operational assets, accessible users and a defined unmet need are verified; park any proposal dependent on unavailable/non-operational facilities.
+
+
+## Update — 21 November 2026
+
+### OPP-0007 — Plateau potato infrastructure and market utilisation
+- **Previous status / priority:** Investigating / Priority A.
+- **Current status / priority:** Investigating / Priority A (unchanged).
+- **New evidence:** Plateau State Government's 12 July 2026 announcement explicitly reports the Mangu tissue-culture laboratory and three processing plants across Mangu, Bokkos and Barkin Ladi. AfDB's project page continues to list PS-PVCP (P-NG-A00-008) as ongoing and lists a February 2026 implementation progress report. A historical AfDB procurement notice identifies the Potato Value Chain Management Team (PVCMT), c/o Plateau State ADP, PMB 2119 Dogon Dutse, Jos, and publishes plateaustatepotato@gmail.com as a project contact. [EVD-0020]
+- **Interpretation:** This strengthens the evidence that there is a real project and a traceable official project contact route. It does not validate current facility uptime, equipment, capacity, access or commercial off-take. The published email is historical and must be treated as a lead, not confirmed current contact.
+- **Objective:** Obtain a current project coordinator/contact and a facility-by-facility operating status, including access rules and buyer/off-take.
+- **Next action:** Send a short written enquiry to plateaustatepotato@gmail.com asking whether the PVCMT remains the responsible office and requesting the current coordinator/contact plus status of the Mangu laboratory and the three processing centres. Do not attach a commercial proposal.
+- **Dependency:** Current contact routing and response from project management.
+- **Owner:** Unassigned.
+- **Review date:** 23 November 2026.
+- **Continue/reprioritise condition:** Continue if current project management confirms facilities and identifies a service or utilisation gap; reprioritise if the office is closed/transferred or assets are not accessible; park if no legitimate contact or accessible need is established.
