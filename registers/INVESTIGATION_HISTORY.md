@@ -153,3 +153,28 @@ Add a dated update under the relevant investigation whenever a source is consult
 - **Conclusion:** Public project activity is established, but current commercial readiness and accessible opportunities are not.
 - **Next step:** Seek current project implementation office confirmation and verify each facility separately before proposing partnership or services.
 - **Review:** 23 November 2026.
+
+
+## INV-0008 — Update — 21 November 2026: Plateau potato project contact and current status
+
+- **Related opportunity:** OPP-0007
+- **Related action:** ACT-0008
+- **Status:** In progress — official project status corroborated; current operating/access status unresolved.
+- **Evidence reviewed:** Plateau State Government announcement dated 12 July 2026; AfDB project page and February 2026 implementation progress report; historical AfDB procurement notice. [EVD-0020]
+- **New findings:** The state announcement says the Mangu tissue-culture laboratory was commissioned and reports three processing plants across Mangu, Bokkos and Barkin Ladi, alongside nine community markets, nine diffuse-light stores, rural roads, water structures and farmer support. AfDB still lists project P-NG-A00-008 as ongoing and has a February 2026 IPR. A historical procurement notice names the Potato Value Chain Management Team (PVCMT), c/o Plateau State ADP, PMB 2119 Dogon Dutse, Jos, and publishes plateaustatepotato@gmail.com.
+- **Reconciliation:** The July 2026 state announcement is stronger and more recent than the prior secondary report's description of plants as merely planned. However, the announcement does not provide current operating throughput, equipment status, ownership/management, access rules or off-take. The older contact details may be stale; no email has been sent in this research run.
+- **Next step:** Use the historical email as a low-cost routing enquiry only; request confirmation of the current project coordinator and facility status. Record any bounce or no-response as an unsuccessful verification attempt, not proof of closure.
+- **Review:** 23 November 2026.
+
+## INV-0009 — Aquaculture, fish processing and livestock programme route discovery
+
+- **Related action:** ACT-0009
+- **Status:** In progress — public institutional signal review only.
+- **Discovery date:** 21 November 2026.
+- **Questions:** Are FAO/FISH4ACP catfish activities or the KOICA-funded Green Jobs for Youth project open to local implementers, service providers, suppliers, training participants or community partners? Are there active Plateau-specific programmes? Which existing hatcheries, feed mills, farms, processors and extension providers already supply the required capabilities? What are the eligibility, procurement and regulatory conditions?
+- **Evidence reviewed:** FAO Nigeria news index dated 11 and 18 November 2026; FMLD official announcements dated 10 and 19 November 2026. [EVD-0021; EVD-0022]
+- **Findings:** FAO reports a national catfish-sector roundtable involving government, development partners, financial institutions, private sector, farmers and processors to identify pathways to scale sustainable catfish production, building on FISH4ACP. FAO also reports launch of a KOICA-funded Green Jobs for Youth project covering Nigeria, Liberia and Sierra Leone, launched in Lafia, Nasarawa State. FMLD reports an avian-influenza decision-support tool under ELEVATE with Kano and Lagos named as pilots, plus proposed Nigeria–Tunisia cooperation in feed, meat processing, technology transfer and investment.
+- **What remains unknown:** Current calls, open applications, project implementation partners, local procurement, funding, Plateau coverage, commercial terms and accessible individual participation.
+- **Conclusion:** Sector-level institutional interest is established; no individual commercial opportunity or funding access is validated. Keep catfish/farmed fish as a product discovery, not a presumed income opportunity.
+- **Next step:** Locate primary project implementation/call documentation and identify existing local providers before proposing any service or build.
+- **Review:** 23 November 2026.
