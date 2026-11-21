@@ -137,3 +137,17 @@ The following entries are evidence-linked candidates derived from current market
 | PRD-0018 | Sesame seeds | Raw oilseed/export commodity | EVD-0017 | Q2 2026 export-value signal; export-grade requirements, cleaning and traceability remain to be verified. |
 
 These records expand the working index beyond the original seed and potato leads. Keep future varieties, grades, paddy/milled forms, processed forms, by-products and specifications separate whenever their markets or technical properties differ.
+
+
+## Candidate records added — 21 November 2026
+
+These open-ended candidates arise from the 2026 wet-season survey, Plateau crop references and FAO aquaculture-sector signals. They do not establish local stock, buyer demand or completed transactions.
+
+| Product ID | Product | Classification / commercial form | Evidence | Attention and limitation |
+|---|---|---|---|---|
+| PRD-0029 | Farmed catfish, fresh | Aquaculture output; whole fresh fish, species/size grade to be specified | EVD-0022, EVD-0019 | Discovery queue: FAO reports a national scaling roundtable; platform reference prices exist, but no Plateau farm, buyer order, size grade or verified quotation is established. |
+| PRD-0030 | Acha / fonio grain | Raw cereal grain; species, variety, cleaned/uncleaned form and grade to be distinguished | EVD-0019 | Discovery queue: a Plateau commodity information page lists fonio among crops grown in the state; local producer volume, market price and commercial form are unverified. |
+| PRD-0031 | Banana, fresh | Raw fruit crop; bunch/hand/finger grade and maturity stage to be specified | EVD-0018 | Priority B for national production monitoring: NAERLS projects gains for plantain and banana; no Plateau LGA production quantity or current quote is established. |
+| PRD-0032 | Cotton crop / seed cotton | Raw fibre crop output; seed cotton must remain distinct from ginned lint and cottonseed | EVD-0018 | Discovery queue: NAERLS projects national cotton gains; state production, variety, ginning access, lint/cottonseed yields and market demand require verification. |
+
+**Form distinction:** Catfish as fresh whole fish is not interchangeable with dried/smoked fish, fillets, fish meal or fish waste. Acha grain is not interchangeable with flour or seed/planting material. Banana is distinct from plantain where species and market classification differ. Seed cotton, cotton lint and cottonseed are separate commercial forms and require separate records when evidence is found.
