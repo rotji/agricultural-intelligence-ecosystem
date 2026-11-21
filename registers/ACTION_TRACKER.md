@@ -63,7 +63,7 @@ Never mark completed based only on a proposed action or an attempted enquiry. Re
 |---|---|---|---|---|---|---|
 | ACT-0006 | OPP-0005 / INV-0006 | Map Nigerian cassava-starch processors and industrial buyers; obtain comparable specifications, capacity and price evidence | Not started | Unassigned | 23 Nov 2026 | Identifiable processors/buyers and comparable product specifications |
 | ACT-0007 | OPP-0006 / INV-0007 | Test local HQCP feed feasibility by identifying cassava processors, wet-peel volumes and potential feed buyers | Not started | Unassigned | 23 Nov 2026 | Processor-level peel supply, buyer specifications, safety and regulatory requirements |
-| ACT-0008 | OPP-0007 / INV-0008 | Verify current operation, management, capacity and access arrangements for Plateau potato project facilities | Not started | Unassigned | 23 Nov 2026 | Current project implementation office/facility operator confirmation |
+| ACT-0008 | OPP-0007 / INV-0008 / OUT-0001 | Monitor the already-sent PVCMT enquiry, review any reply, and verify facility operation/access using the existing conversation | In progress — awaiting reply | Unassigned | 23 Nov 2026 | Substantive response from the existing project contact or verified alternative official route |
 
 ### ACT-0006 — Cassava starch processor and buyer map
 - **Expected result:** A shortlist of actual Nigerian starch processors and industrial users, including product specifications, current capacity/uptime and comparable buyer/seller price evidence.
@@ -85,14 +85,14 @@ Never mark completed based only on a proposed action or an attempted enquiry. Re
 
 | ID | Related record | Action | Status | Owner | Target/review | Dependency |
 |---|---|---|---|---|---|---|
-| ACT-0008 | OPP-0007 / INV-0008 | Contact the published Potato Value Chain Management Team channel to confirm the current coordinator and obtain facility-by-facility status/access information | Not started | Unassigned | 23 Nov 2026 | Historical contact must be confirmed as current; response from PVCMT/project office |
 | ACT-0009 | INV-0009 / PRD-0029 | Review FAO/FMLD aquaculture and livestock initiatives for named implementation partners, eligibility and current Plateau/Nigeria participation routes | Not started | Unassigned | 23 Nov 2026 | Primary programme documentation and named implementing contacts |
 
-### ACT-0008 — Potato project current-contact and facility-status enquiry
-- **Exact initial channel:** plateaustatepotato@gmail.com, published in a historical AfDB procurement notice for the Plateau State Potato Value Chain Support Project. The notice identifies PVCMT, c/o Plateau State ADP, PMB 2119 Dogon Dutse, Jos. [EVD-0020]
-- **Expected result:** Confirmation whether the address is still monitored; current project coordinator and official contact; status of the tissue-culture laboratory and each processing centre; access, operating capacity, services, fees and procurement/off-take process where shareable.
-- **Completion evidence:** Dated written reply from an identifiable project official or an official current contact/notice. A sent email alone is an attempted action, not completion.
-- **Do not:** Travel, pay fees, purchase potatoes/equipment or pitch an unvalidated service based only on this historical contact.
+### ACT-0008 — Potato project enquiry: response monitoring and verification
+- **Initial contact:** plateaustatepotato@gmail.com, published in a historical AfDB procurement notice. One enquiry was sent on 20 November 2026; see OUT-0001 in the Outreach Register.
+- **Current state:** In progress — awaiting a substantive reply. The sent message is an attempted contact, not completion. No second email is authorised while the first thread is awaiting response.
+- **Expected result:** Confirmation of the current project coordinator and official contact; status of the tissue-culture laboratory and each processing centre; access, operating capacity, services, fees and procurement/off-take process where shareable.
+- **Completion evidence:** Dated written reply from an identifiable project official or a verified current official contact/notice, with facility-level facts where available.
+- **Do not:** Send a duplicate enquiry, travel, pay fees, purchase potatoes/equipment or pitch an unvalidated service based only on the historical contact.
 
 ### ACT-0009 — Aquaculture and livestock programme route discovery
 - **Expected result:** Identify whether FAO's catfish-sector roundtable/FISH4ACP activity, Green Jobs for Youth project or FMLD animal-health initiatives publish open partner, supplier, training or participation routes.
