@@ -66,3 +66,8 @@ Use stable IDs OUT-0001, OUT-0002, etc. One OUT ID represents one recipient orga
 ## 8. Project rule
 
 **One enquiry, one tracked conversation, one reply thread. Wait for the response before sending another message on the same matter.**
+
+
+## 9. Project separation
+
+An outreach register belongs to one project only. Do not combine contacts, actions, replies or opportunity statuses from unrelated projects into a shared project register. If one organisation is contacted for two genuinely separate projects, create separate purpose-specific outreach records and make the project boundary explicit. Gmail remains the shared communication source, but each project's register contains only its own correspondence. Before recording an email, verify which project the original purpose belongs to. A reply to one project must not update another project's action tracker.
