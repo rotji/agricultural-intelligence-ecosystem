@@ -192,3 +192,24 @@ Use the continuity governance and tracking guide in docs/. Preserve record histo
 - **Owner:** Unassigned.
 - **Review date:** 23 November 2026.
 - **Continue/reprioritise condition:** Continue if current project management confirms facilities and identifies a service or utilisation gap; reprioritise if the office is closed/transferred or assets are not accessible; park if no legitimate contact or accessible need is established.
+
+
+## Update — 22 November 2026
+
+### OPP-0002 — Fertiliser distribution coordination
+- **Previous status / priority:** Discovered / Priority B.
+- **Current status / priority:** Discovered / Priority B (unchanged).
+- **New evidence:** Federal Government announced plans for three million bags of fertiliser ahead of dry-season farming. A federal information release relays FEPSAN's reported finished NPK stock and blending capacity. [EVD-0024]
+- **Interpretation:** This improves the specificity of the national intervention signal but does not establish a Plateau allocation, approved distribution channel, farmer eligibility, final price or independent coordinator/referral permission.
+- **Next action:** Monitor for official distribution modalities and identify named authorised distributors and Plateau participation only from primary programme notices.
+- **Dependency:** Published implementation rules, location-level allocation and authorised channel confirmation.
+- **Review:** 23 November 2026.
+
+### OPP-0003 — Grain market-information and sourcing services
+- **Previous status / priority:** Discovered / Priority B.
+- **Current status / priority:** Discovered / Priority B (unchanged).
+- **New evidence:** The Agriculture Ministry announced plans to release grains purchased under the BOA Guaranteed Minimum Price programme to stabilise market prices. The exact quantity, grade, release date, storage point and buyer procedure were not stated in the reviewed announcement. [EVD-0024]
+- **Interpretation:** Potentially material supply information, but not yet an accessible grain offer or confirmed procurement opportunity.
+- **Next action:** Monitor for official commodity, volume, location, price and buyer/distribution terms; do not approach buyers or claim supply availability before those details are published.
+- **Dependency:** BOA/FMAFS release modalities and verifiable stock information.
+- **Review:** 23 November 2026.
