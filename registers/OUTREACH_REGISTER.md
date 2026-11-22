@@ -28,7 +28,7 @@
 | OUT-0007 | PLACOM — info@placom.ng | Commodity market, producers, buyers, storage and services | 20 Nov 2026 | Delivery failed — domain not found (NXDOMAIN) | Do not resend; independently verify a current official address first |
 | OUT-0008 | Plateau State Ministry/Commerce contact — commerceandindustry@yahoo.com | Plateau agricultural stakeholder and market information | 20 Nov 2026 | Sent; awaiting reply | Wait |
 | OUT-0013 | Plateau State Citizen to Government Platform — egov@citigov.ng | Route request to relevant departments/project coordination and stakeholder contacts | 20 Nov 2026 (request acknowledged 21 Nov) | Automated receipt acknowledgement; substantive routing response pending | Wait in existing thread; no repeat request |
-| OUT-0014 | Plateau State RAAMP Project Implementation Unit — plateaustate@raamp.gov.ng | Plateau agricultural marketing, agro-logistics, project locations, facilities, information resources and participation channels | 22 Nov 2026 | Delivery failed — address not found (554) | Do not retry until a current official contact is independently verified |
+| OUT-0014 | Plateau State RAAMP Project Implementation Unit — website contact form; attempted email: plateaustate@raamp.gov.ng | Plateau agricultural marketing, agro-logistics, project locations, facilities, information resources and participation channels | 22 Nov 2026 | Website contact form submitted successfully (user-confirmed); separate email attempt bounced (554) | Await any response to the website submission; do not repeat the form or retry the bounced email until needed and verified |
 | OUT-0015 | National Agricultural Extension and Research Liaison Services (NAERLS) — director@naerls.gov.ng | Agricultural market intelligence, data access, Plateau coverage, information networks and legitimate participation channels | 22 Nov 2026 | Sent; awaiting reply | Wait in the existing thread; no duplicate enquiry |
 
 ## Reply events — 21 November 2026
@@ -84,5 +84,16 @@ Only agricultural-project enquiries are included in the ledger above. OUT-0013 i
 
 ### 22 November 2026
 - Added OUT-0014 (RAAMP) and OUT-0015 (NAERLS) using Gmail Sent and delivery-status evidence.
-- RAAMP is recorded as failed delivery; NAERLS is recorded as sent and awaiting reply.
+- RAAMP website form submission is recorded as successfully submitted (user-confirmed); its separate email attempt is recorded as bounced. NAERLS is recorded as sent and awaiting reply.
 - No resend is authorised until the contact-verification and existing-thread rules are satisfied.
+
+
+## Clarification — RAAMP website contact form, 22 November 2026
+
+The user clarified that the RAAMP enquiry was also submitted through the official website contact form and the website displayed a successful-submission message. Therefore:
+- Keep OUT-0014 as one organisation-level outreach record, not two separate organisations or duplicate enquiries.
+- Record the website contact-form channel as **Submitted successfully — user-confirmed; awaiting response**.
+- Retain the separate email attempt and its SMTP 554 bounce as channel-level history only.
+- Do not classify the overall RAAMP outreach as simply failed or tell the user that RAAMP was not contacted.
+- The website-form success is based on the user's direct report; no form receipt/reference number was supplied.
+- Wait for a response; do not submit the same enquiry again.
