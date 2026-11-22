@@ -156,3 +156,12 @@ Two new agricultural outreach attempts were checked against Gmail and are ready 
 Gmail Sent confirms both outgoing attempts. The RAAMP failure notice was also received. The NAERLS message was sent to `director@naerls.gov.ng`, not the earlier suggested `nfhl@naerls.com`; the workbook must store the actual recipient. Preserve OUT-0001 to OUT-0013 unchanged, and do not create duplicate records.
 
 **System boundary:** This GitHub update does not write to Google Sheets. The user will use the connected Google Sheets extension to append/reconcile the two records. GitHub remains canonical under PRE-CUTOVER governance.
+
+
+## 12. Correction — RAAMP contact-form submission, 22 November 2026
+
+The earlier operational note described OUT-0014 as a failed email delivery. The user clarified that the same enquiry was separately submitted through the RAAMP website contact form and the website displayed a successful-submission message. The existing Google Sheet must represent this as **one OUT-0014 organisation-level record** with separate channel outcomes:
+- Website contact form: successfully submitted; user-confirmed; awaiting response.
+- Email to `plateaustate@raamp.gov.ng`: delivery failed with SMTP 554 address-not-found notice.
+
+Do not classify the overall RAAMP outreach as failed, create a second OUT_ID, or repeat the website form. The form submission has not been independently verified by this system.
