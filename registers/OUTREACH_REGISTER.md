@@ -1,6 +1,6 @@
 # Outreach Register
 
-**Last reviewed:** 21 November 2026  
+**Last reviewed:** 22 November 2026  
 **Purpose:** Prevent duplicate or premature contact, maintain one record per organisation/contact thread, and coordinate replies and follow-ups.  
 **Source:** Gmail sent-folder and inbox review on 21 November 2026. Dates below are Africa/Lagos local dates; Gmail timestamps were converted from UTC.
 
@@ -28,6 +28,8 @@
 | OUT-0007 | PLACOM — info@placom.ng | Commodity market, producers, buyers, storage and services | 20 Nov 2026 | Delivery failed — domain not found (NXDOMAIN) | Do not resend; independently verify a current official address first |
 | OUT-0008 | Plateau State Ministry/Commerce contact — commerceandindustry@yahoo.com | Plateau agricultural stakeholder and market information | 20 Nov 2026 | Sent; awaiting reply | Wait |
 | OUT-0013 | Plateau State Citizen to Government Platform — egov@citigov.ng | Route request to relevant departments/project coordination and stakeholder contacts | 20 Nov 2026 (request acknowledged 21 Nov) | Automated receipt acknowledgement; substantive routing response pending | Wait in existing thread; no repeat request |
+| OUT-0014 | Plateau State RAAMP Project Implementation Unit — plateaustate@raamp.gov.ng | Plateau agricultural marketing, agro-logistics, project locations, facilities, information resources and participation channels | 22 Nov 2026 | Delivery failed — address not found (554) | Do not retry until a current official contact is independently verified |
+| OUT-0015 | National Agricultural Extension and Research Liaison Services (NAERLS) — director@naerls.gov.ng | Agricultural market intelligence, data access, Plateau coverage, information networks and legitimate participation channels | 22 Nov 2026 | Sent; awaiting reply | Wait in the existing thread; no duplicate enquiry |
 
 ## Reply events — 21 November 2026
 
@@ -70,3 +72,17 @@ Only agricultural-project enquiries are included in the ledger above. OUT-0013 i
 - **Project boundary:** Reelaay, micro1, Turing / Project Lazarus and Patronus AI were not added.
 - **Verification limitation:** The extension reported a successful save and read-back, but the original Gmail threads were not independently inspectable in that session. The corresponding source details remain marked as supplied/unverified in the spreadsheet notes. This register therefore records the workbook operation as user-reported, not as an independent Gmail audit.
 - **System boundary:** This was a manual extension-assisted spreadsheet update, not an automated two-way synchronisation or an approved canonical-system cutover. GitHub remains the project source of truth under the current pre-cutover governance.
+
+
+## Outreach events — 22 November 2026
+
+- **OUT-0014 / Plateau State RAAMP:** Sent to `plateaustate@raamp.gov.ng` at 22:55 Africa/Lagos (20:55:14Z). Gmail returned a delivery failure at 22:56 Africa/Lagos: address not found / SMTP 554. Classify as **Delivery failed**, not awaiting reply. Do not retry until a current official address is independently verified.
+- **OUT-0015 / NAERLS:** Sent to `director@naerls.gov.ng` at 23:08 Africa/Lagos (21:08:45Z). Gmail Sent confirms the message. The actual recipient differs from the earlier suggested `nfhl@naerls.com`; record the actual recipient only. Await reply.
+- Gmail Sent and the RAAMP failure notice were checked. No duplicate initial enquiry was created for either organisation.
+
+## Update history
+
+### 22 November 2026
+- Added OUT-0014 (RAAMP) and OUT-0015 (NAERLS) using Gmail Sent and delivery-status evidence.
+- RAAMP is recorded as failed delivery; NAERLS is recorded as sent and awaiting reply.
+- No resend is authorised until the contact-verification and existing-thread rules are satisfied.
