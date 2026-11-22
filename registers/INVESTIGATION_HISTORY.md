@@ -189,3 +189,29 @@ Add a dated update under the relevant investigation whenever a source is consult
 - **Next step:** Wait for a reply and check the existing thread during the normal inbox review. If no response after a reasonable waiting period, reassess whether an alternative official contact is independently verifiable before considering any follow-up.
 - **Status:** In progress — awaiting reply; facility operation/access unresolved.
 - **Review:** 23 November 2026.
+
+
+## INV-0010 — Federal 2026 fertiliser and stored-grain intervention: access and distribution verification
+
+- **Related opportunities/actions:** OPP-0002, OPP-0003, ACT-0002, ACT-0003.
+- **Discovery/update date:** 22 November 2026.
+- **Status:** In progress — federal announcements reviewed; implementation and local access unresolved.
+- **Questions:** Which fertiliser products and grain commodities will be distributed/released? What quantities, prices, dates and storage/distribution points apply? Which agencies, distributors or farmer aggregation entities are authorised? Is Plateau State included, and through what verified channel? Are there public eligibility rules or procurement notices?
+- **Evidence reviewed:** Federal Ministry of Agriculture and Food Security announcement dated 20 November; Federal Ministry of Information and National Orientation announcement dated 16 November. [EVD-0024]
+- **Findings:** FMAFS announced plans to release three million bags of fertiliser and BOA-stored grains under the Guaranteed Minimum Price programme. The federal information release reports FEPSAN's stated 29,000 tonnes of finished NPK stock and raw materials capable of supporting approximately 148,000 tonnes of NPK 20-10-10. These figures describe announcements and industry-reported capacity/stock, not completed distribution.
+- **Unresolved:** Exact grain volumes/grades, fertiliser final price, distribution modality, timing, Plateau allocation, authorised distributors, eligibility and independent participation permission.
+- **Conclusion:** Stronger national policy signal; no verified individual commercial access route. Keep OPP-0002 and OPP-0003 at discovery stage / Priority B.
+- **Next step:** Monitor official implementation notices and update only when primary details are published. Do not treat announcements as open grants, stock offers or procurement calls.
+- **Review:** 23 November 2026.
+
+## INV-0011 — Nigerian commodity price-platform comparability and Plateau benchmark quality
+
+- **Related records:** OPP-0003; PRD-0013 to PRD-0015; EVD-0019.
+- **Discovery/update date:** 22 November 2026.
+- **Status:** In progress — cross-platform snapshot compared; direct local quotation still missing.
+- **Question:** Can current public price platforms provide a comparable, traceable benchmark for Plateau markets, and what metadata is needed to distinguish a real price difference from differences in grade, market level, unit or estimation method?
+- **Evidence reviewed:** Useagrios national and Terminus Market maize estimates; ROL Global's national reference prices and source-method note. [EVD-0019]
+- **Findings:** Useagrios displayed maize at ₦74,277/50 kg nationally and ₦73,394/50 kg for Terminus Market, Jos (labelled Estimate). ROL Global displayed maize at ₦660,000/tonne (₦33,000/50 kg equivalent) and states its grain table uses Commodity Nigeria fallback where NCX was not machine-readable. Other commodities also show platform differences. The source market level, grade, exact collection basis and quote/transaction status are not aligned.
+- **Conclusion:** This is a data quality/comparability warning, not evidence of a real arbitrage or current local trade price. No Plateau L1 transaction or L2 identifiable quotation was verified.
+- **Next step:** Seek comparable direct quotes only when a real seller/buyer source is available; capture product form, grade, unit, market, date, quantity and delivery terms. Do not build a new price platform before testing whether existing services fail a specific user need.
+- **Review:** 23 November 2026.
