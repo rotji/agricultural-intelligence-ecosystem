@@ -447,3 +447,63 @@ The separate Terminus Market, Jos page displayed 20 November 2026 estimates of m
 - **Verification method:** FAO Nigeria news index reviewed 21 November 2026.
 - **Limitations:** No open application, grant amount, local partner list or procurement notice was established in this review. Do not assume an individual can join or receive funding.
 - **Related records:** PRD-0029, ACT-0009, INV-0009.
+
+
+### Update — 22 November 2026: latest platform snapshot and comparability warning
+
+Useagrios displayed national average estimates on 22 November 2026:
+- Maize: ₦74,277 per 50 kg.
+- Rice: ₦79,605 per 50 kg.
+- Cassava: ₦46,532 per 100 kg.
+- Yam: ₦120,525 per 100 kg.
+- Beans: ₦63,963 per 50 kg.
+- Soybean: ₦121,766 per 50 kg.
+- Sorghum: ₦13,350 per 50 kg.
+- Groundnut: ₦68,936 per 50 kg.
+- Sesame: ₦89,701 per 50 kg.
+- Palm oil: ₦55,460 per 25 L.
+- Cocoa: ₦974,386 per tonne.
+- Cashew: ₦129,046 per 50 kg.
+- Terminus Market, Plateau: maize ₦73,394 per 50 kg, with a displayed range of ₦62,998–₦86,443; the row is labelled Estimate.
+
+ROL Global's page, checked 22 November, displayed maize ₦660,000/tonne, paddy rice ₦1,160,000/tonne, soybean ₦800,000/tonne, sorghum ₦700,000/tonne and millet ₦690,000/tonne. It states that NCX was not machine-readable and that grain prices were refreshed from Commodity Nigeria, while unsupported rows retain older source dates.
+
+**Comparability finding:** the displayed maize references differ sharply (Useagrios national estimate about ₦74,277/50 kg versus ROL about ₦33,000/50 kg equivalent). The market level, grade, exact source observation and transaction/quotation basis are not aligned. Treat this as a data-quality and metadata issue, not a tradable price spread. No direct Plateau L1 transaction or L2 identifiable quote was verified.
+
+- **Observation date:** 22 November 2026.
+- **Evidence level:** L3/L4 platform estimates/reference prices; not verified transactions.
+- **Related records:** PRD-0013 to PRD-0015; OPP-0003; INV-0011.
+
+
+## EVD-0023 — 2026 Wet Season Agricultural Performance Survey and harvest/logistics risk reporting
+
+- **Source organisations:** National Agricultural Extension and Research Liaison Services (NAERLS), Ahmadu Bello University; BusinessDay (secondary reporting).
+- **Source titles:** “NAERLS presents 2026 Wet Season Agricultural Performance Survey report to Federal Government”; “Crop gains offer relief on Nigerian food prices if supply bottlenecks ease”.
+- **URLs:** https://abu.edu.ng/naerls-presents-2026-wet-season-agricultural-performance-survey-report-to-federal-government/ ; https://businessday.ng/agriculture/article/crop-gains-offer-relief-on-nigerian-food-prices-if-supply-bottlenecks-ease/
+- **Publication dates:** ABU/NAERLS report announcement 19 November 2026; BusinessDay article 22 November 2026.
+- **Observation/collection date:** 22 November 2026.
+- **Geography:** Nigeria; the survey is national. Secondary report identifies selected flood- and pest-affected states.
+- **Products/value chain:** Cereals, especially maize and rice; wider wet-season crops; storage, extension, transport and market distribution.
+- **Claim supported:** NAERLS reports expected 2026 cereal output of 29.39 million tonnes, a 1.84% increase, with maize and rice expected to drive growth. BusinessDay's coverage reports regional production gains led by Niger, Benue, Kaduna and Kano, alongside severe flooding in seven states, pest pressure in selected states and weak extension coverage/logistics constraints.
+- **Evidence level:** Primary institutional survey announcement plus secondary media interpretation. The output figure is a survey expectation, not a final audited harvest result.
+- **Confidence:** High that NAERLS announced the forecast; medium for the secondary article's state-level interpretation.
+- **Limitations:** National/selected-state findings do not establish Plateau LGA-level production, local availability or price changes. Harvest gains do not guarantee retail price reductions because storage, transport, insecurity, input costs and post-harvest losses affect market pass-through.
+- **Verification method:** Public ABU/NAERLS and BusinessDay pages reviewed 22 November 2026.
+- **Related records:** OPP-0002, OPP-0003, ACT-0002, ACT-0003, INV-0010.
+
+
+## EVD-0024 — Federal fertiliser production and stored-grain market-stabilisation announcements
+
+- **Source organisations:** Federal Ministry of Agriculture and Food Security; Federal Ministry of Information and National Orientation; Fertiliser Producers and Suppliers Association of Nigeria (FEPSAN), as quoted in the federal release.
+- **Source titles:** “FG unveils measures to reduce food prices, pledges market stabilization and food sovereignty”; “VP Shettima announces Presidential directive on immediate fertiliser supply for dry season farming”.
+- **URLs:** https://agriculture.gov.ng/fg-unveils-measures-to-reduce-food-prices-pledges-market-stabilization-and-food-sovereignty/ ; https://fmino.gov.ng/vp-shettima-announces-presidential-directive-on-immediate-fertiliser-supply-for-dry-season-farming/
+- **Publication dates:** 20 November 2026 (Agriculture Ministry); 16 November 2026 (Federal Ministry of Information).
+- **Observation/collection date:** 22 November 2026.
+- **Geography:** Federal/national Nigeria; no Plateau-specific allocation stated in the reviewed announcements.
+- **Products/value chain:** NPK fertiliser, dry-season crop production, stored grains under the Bank of Agriculture Guaranteed Minimum Price programme, grain distribution and market stabilisation.
+- **Claim supported:** The Agriculture Ministry says the government plans to release three million bags of fertiliser and stored grains bought under the BOA Guaranteed Minimum Price programme, with distribution modalities to be announced. The federal information release reports that FEPSAN members said available raw materials could support approximately 148,000 tonnes of NPK 20-10-10 within weeks, about three million bags, and that members held approximately 29,000 tonnes of finished NPK stock. These are announced plans and industry-reported production/stock figures, not evidence that the products have been distributed or allocated to Plateau.
+- **Evidence level:** L4 official policy/implementation announcement, including industry figures relayed in a government release; not a completed distribution or transaction.
+- **Confidence:** High that the announcements were published; medium for industry-reported stock/capacity; low for actual delivery timing, beneficiary eligibility, Plateau allocation and accessible independent participation.
+- **Verification method:** Federal Ministry pages reviewed 22 November 2026.
+- **Limitations:** Exact grain quantities, commodity grades, storage locations, release dates, sale/distribution mechanism, fertiliser prices, authorised distributors, farmer eligibility and Plateau allocations remain unconfirmed. Do not assume open procurement, grants, agency status or a private intermediary role.
+- **Related records:** OPP-0002, OPP-0003, ACT-0002, ACT-0003, INV-0010.
