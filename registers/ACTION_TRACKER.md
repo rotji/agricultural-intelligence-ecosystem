@@ -98,3 +98,14 @@ Never mark completed based only on a proposed action or an attempted enquiry. Re
 - **Expected result:** Identify whether FAO's catfish-sector roundtable/FISH4ACP activity, Green Jobs for Youth project or FMLD animal-health initiatives publish open partner, supplier, training or participation routes.
 - **Starting evidence:** FAO Nigeria reports a catfish production scaling roundtable (11 Nov) and KOICA-funded Green Jobs project launch (18 Nov); FMLD reports avian-influenza decision-support work and Nigeria–Tunisia livestock cooperation discussions. [EVD-0021; EVD-0022]
 - **Do not:** Assume that an announcement is an open grant, job, agent programme or procurement opportunity.
+
+
+## Update — 22 November 2026
+
+| ID | Previous status | Current status | Evidence / change | Next action | Dependency | Next review |
+|---|---|---|---|---|---|---|
+| ACT-0002 | Not started | In progress — official intervention announcement located; distribution route unverified | Federal announcements describe planned three-million-bag fertiliser supply and industry-reported NPK stocks/capacity. No Plateau allocation or authorised distributor route is confirmed. [EVD-0024] | Monitor official distribution modalities; then verify Plateau allocation, authorised distributors, farmer eligibility and any permitted coordination role. | Implementation rules and location-level allocation | 23 Nov 2026 |
+| ACT-0003 | Not started | In progress — official grain-release announcement located; buyer procedure unverified | FMAFS says BOA-held grains under the Guaranteed Minimum Price programme will be released; quantity, grade, storage point, date and distribution/sale terms remain unpublished in the reviewed source. [EVD-0024] | Monitor the official release notice and capture commodity, grade, quantity, location, price and buyer procedure. | BOA/FMAFS implementation notice | 23 Nov 2026 |
+
+### Control note
+The new announcements are not proof of stock availability, a Plateau allocation, an open tender, a grant, or permission to act as an independent distributor. Do not contact unverified intermediaries or make financial commitments based on the announcement alone.
