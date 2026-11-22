@@ -142,3 +142,17 @@ The user reports that the existing Google Sheet was updated through the ChatGPT 
 - The extension could not independently inspect the original Gmail threads in that session; the source details are therefore marked supplied/unverified in the spreadsheet notes.
 
 **Interpretation:** The Google Sheet is now a user-operated working companion containing the outreach records. This does not establish direct ChatGPT connector access, automated synchronisation, or completion of the formal cutover gate. GitHub remains canonical. The reported write/read-back is attributed to the extension's response and has not been independently repeated through a separate Sheet connector in this session.
+
+
+## 11. Operational update — 22 November 2026
+
+Two new agricultural outreach attempts were checked against Gmail and are ready for entry in the existing `Outreach_Register` tab:
+
+| OUT ID | Organisation | Actual recipient | Sent date (Lagos) | Verified state |
+|---|---|---|---|---|
+| OUT-0014 | Plateau State RAAMP Project Implementation Unit | plateaustate@raamp.gov.ng | 22 Nov 2026 | Delivery failed; Gmail returned address not found / SMTP 554. Do not retry until a current official address is independently verified. |
+| OUT-0015 | National Agricultural Extension and Research Liaison Services (NAERLS) | director@naerls.gov.ng | 22 Nov 2026 | Sent; awaiting reply. |
+
+Gmail Sent confirms both outgoing attempts. The RAAMP failure notice was also received. The NAERLS message was sent to `director@naerls.gov.ng`, not the earlier suggested `nfhl@naerls.com`; the workbook must store the actual recipient. Preserve OUT-0001 to OUT-0013 unchanged, and do not create duplicate records.
+
+**System boundary:** This GitHub update does not write to Google Sheets. The user will use the connected Google Sheets extension to append/reconcile the two records. GitHub remains canonical under PRE-CUTOVER governance.
