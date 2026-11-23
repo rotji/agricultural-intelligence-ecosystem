@@ -97,3 +97,30 @@ The user clarified that the RAAMP enquiry was also submitted through the officia
 - Do not classify the overall RAAMP outreach as simply failed or tell the user that RAAMP was not contacted.
 - The website-form success is based on the user's direct report; no form receipt/reference number was supplied.
 - Wait for a response; do not submit the same enquiry again.
+
+
+## New outreach events — 23 November 2026
+
+The user confirmed that initial enquiry emails were sent to the following four new organisations on 23 November 2026. The sent status and date are **user-reported**; Gmail message headers were not independently inspected during this update. These are organisation-level records. No reply has yet been reported.
+
+| OUT ID | Organisation / contact | Purpose | Sent (Lagos date) | Current state | Next handling |
+|---|---|---|---|---|---|
+| OUT-0016 | Nigeria Commodity Exchange (NCX) — info@ncx.com.ng | Independent participation in commodity-market intelligence, local market information, aggregation and producer-buyer connections | 23 Nov 2026 | Sent; awaiting reply (user-confirmed) | Wait in the existing email thread; no duplicate initial enquiry |
+| OUT-0017 | AFEX — contactus@afexnigeria.com | Independent participation in agricultural value chains, field intelligence, farmer/commodity information, referral and service-provider routes | 23 Nov 2026 | Sent; awaiting reply (user-confirmed) | Wait in the existing email thread; no duplicate initial enquiry |
+| OUT-0018 | Novus Agro — info@novusagro.com | Local market intelligence, farmer-network participation, producer discovery and market connections | 23 Nov 2026 | Sent; awaiting reply (user-confirmed) | Wait in the existing email thread; no duplicate initial enquiry |
+| OUT-0019 | Commodity Nigeria — info@commodity.ng | Commodity data contributions, local market reporting, verification and contributor arrangements | 23 Nov 2026 | Sent; awaiting reply (user-confirmed) | Wait in the existing email thread; no duplicate initial enquiry |
+
+### WhatsApp channel status — 23 November 2026
+
+- Published phone numbers were identified during contact research, but their WhatsApp registration and ownership have **not** been independently verified.
+- No WhatsApp message is recorded as sent. Do not mark any WhatsApp channel as contacted.
+- Before messaging, verify that the number is displayed as an active WhatsApp account and that the account/business identity matches the organisation through an official website or other authoritative source.
+- If WhatsApp contact is made, record it as an additional channel under the same OUT ID. Do not create another organisation record or a new OUT ID for the same organisation.
+- If no WhatsApp account is found, retain the email-only status.
+
+### Update history — 23 November 2026
+
+- Added four new organisation-level outreach records, OUT-0016 to OUT-0019, after the user confirmed sending the four initial emails.
+- Statuses are explicitly user-reported; no claim of independent Gmail verification is made.
+- Existing OUT-0001 to OUT-0015 were preserved.
+- No daily brief was added to GitHub. This update is a durable outreach-register change.
